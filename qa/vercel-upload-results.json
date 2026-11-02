@@ -1,0 +1,138 @@
+{
+  "cliVersion": "65.9.0",
+  "framework": {
+    "name": "Other",
+    "slug": null
+  },
+  "files": [
+    {
+      "path": "assets/fonts/geist-latin.woff2",
+      "size": 29400,
+      "mode": 33206,
+      "sha": "f49f83effead879533471220a055fd6b026fe3b0"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "size": 4368,
+      "mode": 33206,
+      "sha": "e426f28a99fe4b09ed4ce4cbc6f8bb0edc73ffb1"
+    },
+    {
+      "path": "assets/images/author-portrait.webp",
+      "size": 1167366,
+      "mode": 33206,
+      "sha": "1fee8e02d0842eab1d80c5d2dab1a5008d15c5da"
+    },
+    {
+      "path": "assets/images/book-contact-shadow.svg",
+      "size": 722,
+      "mode": 33206,
+      "sha": "aa0e2b30c84cb816ca9a48f32c70963705de9eab"
+    },
+    {
+      "path": "assets/images/book-cover.png",
+      "size": 76858,
+      "mode": 33206,
+      "sha": "a11f899ce392ebbb5c6a732bb69897b411712676"
+    },
+    {
+      "path": "assets/images/delivery/author-1153.avif",
+      "size": 240059,
+      "mode": 33206,
+      "sha": "befeef2b1d1d1326363fa294e52d521e5b70cc8b"
+    },
+    {
+      "path": "assets/images/delivery/author-1153.webp",
+      "size": 292024,
+      "mode": 33206,
+      "sha": "61897adeab78a1fc20430b3e8ea10416a5725131"
+    },
+    {
+      "path": "assets/images/delivery/interior-1536.avif",
+      "size": 143867,
+      "mode": 33206,
+      "sha": "5a554642f55f3bb2f3c5eebfa217e43a5c235794"
+    },
+    {
+      "path": "assets/images/delivery/interior-1536.webp",
+      "size": 158172,
+      "mode": 33206,
+      "sha": "ffd454ba6e30e33e324d29bce481fc3aeb6766ad"
+    },
+    {
+      "path": "assets/images/interior.webp",
+      "size": 1122296,
+      "mode": 33206,
+      "sha": "49d7d3c7d28cd6208585a17e375d2e60b0ab4e97"
+    },
+    {
+      "path": "author.html",
+      "size": 3482,
+      "mode": 33206,
+      "sha": "dac29850179eb808985216c471201a18d94875f1"
+    },
+    {
+      "path": "book.html",
+      "size": 3245,
+      "mode": 33206,
+      "sha": "36cf53006c2ce9ae3b633b05dc1076d6838f5d30"
+    },
+    {
+      "path": "index.html",
+      "size": 4621,
+      "mode": 33206,
+      "sha": "eab25dec925820bed1e19e497db52dad7ad49f21"
+    },
+    {
+      "path": "launch.html",
+      "size": 2840,
+      "mode": 33206,
+      "sha": "d97b7f5e43a160488a000551d525fd13dd19459a"
+    },
+    {
+      "path": "navigation.js",
+      "size": 3007,
+      "mode": 33206,
+      "sha": "8d4fc4b7d3109321d0f51326d768ea8c8a6227df"
+    },
+    {
+      "path": "scripts/build-static.cjs",
+      "size": 1549,
+      "mode": 33206,
+      "sha": "88e564228c5568883b480d35784089bb45edf152"
+    },
+    {
+      "path": "scripts/static-files.json",
+      "size": 499,
+      "mode": 33206,
+      "sha": "b77026a4358d5a9bf456c8d79fa8dc7f79cbac6c"
+    },
+    {
+      "path": "styles.css",
+      "size": 23094,
+      "mode": 33206,
+      "sha": "b719abb9c88e4218b0eaabd1228820ee9726723f"
+    },
+    {
+      "path": "vercel.json",
+      "size": 424,
+      "mode": 33206,
+      "sha": "06f215cfb05148551eb95df2c7c2e6850e49ed74"
+    }
+  ],
+  "fileCount": 19,
+  "totalSize": 3277893,
+  "exactExpectedSourceSet": true,
+  "excluded": [
+    ".env.local",
+    ".vercel",
+    ".git",
+    "qa",
+    "docs",
+    "dist",
+    "README.md",
+    "original PNG alternatives",
+    "unused TTF fonts"
+  ],
+  "finding": "Vercel CLI directory re-inclusion requires negated directory names without a trailing slash; all 19 expected inputs are present after the correction."
+}
