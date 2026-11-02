@@ -100,7 +100,10 @@ main:focus { outline: none; }
 .launch-announcement::before { content: ""; position: absolute; left: 0; top: 33px; width: 2px; height: 40px; background: var(--green); }
 .announcement-label { font-size: 12.5px; font-weight: 500; line-height: 17px; color: #657168; letter-spacing: -.15px; }
 .announcement-date { margin-top: 4px; font-size: 16px; font-weight: 500; line-height: 22px; color: #29372e; letter-spacing: -.15px; }
-.announcement-city { display: none; }
+.announcement-city { display: none; white-space: nowrap; }
+.announcement-venue { margin-top: 12px; font-size: 15px; line-height: 24px; color: #29372e; }
+.announcement-time { margin-top: 8px; font-size: 15px; line-height: 24px; color: #29372e; }
+.event-address { display: block; margin-top: 8px; font-size: .94em; font-weight: 400; line-height: 1.6; overflow-wrap: anywhere; }
 @media (hover: hover) {
   .primary-navigation a:hover { color: #3a5b46; }
   .get-book:hover { background: #364a3b; }
