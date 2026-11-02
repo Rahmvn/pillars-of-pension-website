@@ -1,7 +1,10 @@
-The approved four-page site is prepared for a Vercel **Preview** deployment. No
-Vercel project has been created or linked, and no deployment or remote Git push
-has been performed. The commands in the deployment procedure below are
-documentation for a later, explicitly approved action.
+The four-page site was published to **Production** on 2 November 2026 after the
+owner explicitly changed the requested deployment target from Preview to
+Production. The live site is https://pillars-of-pension-website.vercel.app.
+See [the deployment report](../qa/DEPLOYMENT-REPORT.md) for the deployed revision,
+hosted verification and remaining issues. Git integration is disconnected;
+future pushes do not automatically deploy. Only this project's Vercel settings
+were changed. The Preview procedure below remains available for future staging.
 
 Local preparation is independent of Vercel:
 
@@ -101,7 +104,7 @@ After explicit staging deployment approval:
 5. Create a Preview explicitly:
 
    ```powershell
-   vercel deploy --target=preview --scope $vercelScope
+   vercel deploy --environment preview --scope $vercelScope
    ```
 
    This follows the documented
@@ -121,12 +124,22 @@ After explicit staging deployment approval:
    is an access boundary, not evidence that page routing failed. Do not disable
    protection or introduce a bypass automatically.
 
-The present milestone stops before step 1's external account/project
-configuration. There is no hosted acceptance result yet. Cold mobile image
-transfer remains a performance consideration documented in the readiness report;
-no original asset was modified or recompressed during this preparation.
+For the separately authorized Production publication, the selected scope was
+`rahmvns-projects` and the project was `pillars-of-pension-website`. CLI 65.9.0
+was used with `vercel deploy --environment production --scope rahmvns-projects`.
+Node 22.x and the static build settings above were applied. Sign-in protection
+was disabled for this project at the owner's request so visitors can open it
+without a Vercel account. Credentials and local link metadata remain ignored.
+The actual CLI upload inventory was checked before deployment: 16 runtime files
+plus `vercel.json`, the build script and its manifest, with no development files
+or secrets. Directory re-inclusions in `.vercelignore` omit trailing slashes so
+the CLI traverses the allowed folders. See `qa/vercel-upload-results.json`.
+
+The original design assets remain unchanged. Image-delivery derivatives and
+their measurements are documented in `qa/IMAGE-OPTIMIZATION.md`; hosted results
+are documented separately in the deployment report.
 
 Before public launch, confirm the real acquisition destination or retain Coming
 soon deliberately, the printed author-name order, venue, start time, and RSVP
 arrangements. The current approved copy and pending wording are unchanged.
-Production publication requires separate approval.
+Further deployments or configuration changes should follow the owner's scope.

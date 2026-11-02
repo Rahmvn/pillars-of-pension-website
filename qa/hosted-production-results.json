@@ -1,0 +1,841 @@
+{
+  "verifiedAt": "2026-11-02T09:52:21.816Z",
+  "url": "https://pillars-of-pension-website.vercel.app",
+  "deployment": {
+    "id": "dpl_FHgYCGErptUunV7cY6vvpmHajdA3",
+    "target": "production",
+    "readyState": "READY",
+    "source": "cli",
+    "sourceCommit": "ec94964c133f8de8dd0f6702606cf959fa535ca0",
+    "url": "https://pillars-of-pension-website-7cpd7by25-rahmvns-projects.vercel.app",
+    "project": "pillars-of-pension-website",
+    "scope": "rahmvns-projects",
+    "nodeVersion": "22.x",
+    "gitIntegrationConnected": false,
+    "signInRequired": false
+  },
+  "baselineCommit": "0a830f274dd1872eb97e3ae34103a75f736caedd",
+  "imageOptimizationCommit": "4e131f0119620baf77b8af029824a8b0daba4e58",
+  "browser": "147.0.7727.15",
+  "responsiveCases": 24,
+  "intermediateLayouts": 52,
+  "navigationPairs": 32,
+  "interactionChecks": [
+    "32 navigation pairs; active page does not reload",
+    "Keyboard skip link, visible focus, and Enter activation",
+    "Breakpoint menu closure and short viewport scrolling; focus handoff reported separately",
+    "Normal Back/Forward history (initial scroll 121px); no custom history routing",
+    "Reduced motion removes transitions",
+    "Navigation works without JavaScript"
+  ],
+  "knownNavigationFailure": [
+    "Open mobile menu resized to desktop: menu closes, but focus falls to body instead of the active navigation link"
+  ],
+  "accessibility": {
+    "scans": 12,
+    "automatedViolations": 0,
+    "inconclusiveScanEntries": 5,
+    "paintedFocusStates": 85,
+    "minimumFocusContrast": 6.856,
+    "inconclusiveTextCasesInspected": 25,
+    "allPaintedChecksPassed": true
+  },
+  "http": {
+    "url": "https://pillars-of-pension-website.vercel.app",
+    "at": "2026-11-02T09:52:21.816Z",
+    "files": [
+      {
+        "file": "index.html",
+        "status": 200,
+        "bytes": 4621,
+        "sha256": "68a1e69fbb16ff6cb9e69a01ef15eb6cd4427d8df2f53a837660cf265a8289d8",
+        "contentType": "text/html; charset=utf-8",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "W/\"cc4ff4d170c6eaff59bc8b1d07d7ffbc\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "MISS",
+        "cdnRepeat": "HIT"
+      },
+      {
+        "file": "book.html",
+        "status": 200,
+        "bytes": 3245,
+        "sha256": "0dc75cef9fdf632086e549d17f504754be9c1ef20da32b6e4ecc98300f14bcbd",
+        "contentType": "text/html; charset=utf-8",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "W/\"0030c13f35dbb644ae97d13b9f244832\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "MISS",
+        "cdnRepeat": "HIT"
+      },
+      {
+        "file": "author.html",
+        "status": 200,
+        "bytes": 3482,
+        "sha256": "6e7f377b100ce5b696e0a6d372ed56b99a75986c33f8646b7ddeeb0235c45f5f",
+        "contentType": "text/html; charset=utf-8",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "W/\"87ebaa3e4616dcc355b3b47d433efbb0\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "MISS",
+        "cdnRepeat": "HIT"
+      },
+      {
+        "file": "launch.html",
+        "status": 200,
+        "bytes": 2840,
+        "sha256": "9d3a178dcaebe03547d6ded8ced13c375ecc9a3a3ed9ca4e2e80e6c6595574c5",
+        "contentType": "text/html; charset=utf-8",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "W/\"56d6a17a7ecbbe5b94e55816833559c5\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "MISS",
+        "cdnRepeat": "HIT"
+      },
+      {
+        "file": "styles.css",
+        "status": 200,
+        "bytes": 23094,
+        "sha256": "7a6628732820ba1540f74d5285f4f5ab7aa15ecf77189d595f89061394963937",
+        "contentType": "text/css; charset=utf-8",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "W/\"40aa9c940b11e75cb3f1df054c9e1e6e\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "HIT",
+        "cdnRepeat": "HIT"
+      },
+      {
+        "file": "navigation.js",
+        "status": 200,
+        "bytes": 3007,
+        "sha256": "cff99cee5fdad4c09dfade35b6c696fce0842f0ab47a2fedaaddac99af9f7f6c",
+        "contentType": "application/javascript; charset=utf-8",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "W/\"51c65ed048be730766f268618811746d\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "HIT",
+        "cdnRepeat": "HIT"
+      },
+      {
+        "file": "assets/images/interior.webp",
+        "status": 200,
+        "bytes": 1122296,
+        "sha256": "36585513a5ed906fd75d0d021cfca9fe7908ea6e866f95d10572ddbf585ea401",
+        "contentType": "image/webp",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "\"d99d50fe656bebe77f8e85c57e4729cf\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "MISS",
+        "cdnRepeat": "HIT"
+      },
+      {
+        "file": "assets/images/author-portrait.webp",
+        "status": 200,
+        "bytes": 1167366,
+        "sha256": "2947986a0378e566291d16298af3f1ea46b44b9481c20fa4b89356fc42fa072b",
+        "contentType": "image/webp",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "\"5e175f8ff8efb21ff0e0d69b747aa98b\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "MISS",
+        "cdnRepeat": "HIT"
+      },
+      {
+        "file": "assets/images/book-cover.png",
+        "status": 200,
+        "bytes": 76858,
+        "sha256": "842fe5bb4ee03aa69bc3d54f6cd78190b2c1e687ce2266e0c829f24f556f5010",
+        "contentType": "image/png",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "\"2a7782845da0c92579c15e46007c8519\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "HIT",
+        "cdnRepeat": "HIT"
+      },
+      {
+        "file": "assets/images/book-contact-shadow.svg",
+        "status": 200,
+        "bytes": 722,
+        "sha256": "251c113f868cfd2253046abf15365ba480fcc687c2a93659620afe1df0fb836a",
+        "contentType": "image/svg+xml",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "\"4c8307882ea2c9b3cfb1de835be31c7a\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "HIT",
+        "cdnRepeat": "HIT"
+      },
+      {
+        "file": "assets/fonts/geist-latin.woff2",
+        "status": 200,
+        "bytes": 29400,
+        "sha256": "19f9c92546aa300c312235e3125af1b81394d8db9a4bc4a425cd5b641d2d54e1",
+        "contentType": "font/woff2",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "\"a147f99cd533135887083b7ac60d63a6\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "HIT",
+        "cdnRepeat": "HIT"
+      },
+      {
+        "file": "assets/fonts/OFL.txt",
+        "status": 200,
+        "bytes": 4368,
+        "sha256": "930853ee1daa68554d9e35c8a9175affb74f699fad9a5da6ee5ebe76379d9137",
+        "contentType": "text/plain; charset=utf-8",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "W/\"563d13575f813953c3151e1ecce3b76f\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "MISS",
+        "cdnRepeat": "HIT"
+      },
+      {
+        "file": "assets/images/delivery/interior-1536.avif",
+        "status": 200,
+        "bytes": 143867,
+        "sha256": "e756e6d25423b81d7a072dc994cad2afee7adc059641e193b68aabd17bd62295",
+        "contentType": "image/avif",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "\"52510152ccaf4abddeb8d885dfae3b3a\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "HIT",
+        "cdnRepeat": "HIT"
+      },
+      {
+        "file": "assets/images/delivery/interior-1536.webp",
+        "status": 200,
+        "bytes": 158172,
+        "sha256": "54955f8e22ef4e451b83e38e6500b2099f85105d5fee7d06a7b12f2eed6973ab",
+        "contentType": "image/webp",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "\"6397592856fe8a7729ddf83ee7ec5817\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "MISS",
+        "cdnRepeat": "HIT"
+      },
+      {
+        "file": "assets/images/delivery/author-1153.avif",
+        "status": 200,
+        "bytes": 240059,
+        "sha256": "22b9600852f96acfdaeadb03825e8c74db398fc6f215efaae740820c4bd2faa1",
+        "contentType": "image/avif",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "\"36da6da42a706f05b0ddc32d650fef79\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "MISS",
+        "cdnRepeat": "HIT"
+      },
+      {
+        "file": "assets/images/delivery/author-1153.webp",
+        "status": 200,
+        "bytes": 292024,
+        "sha256": "6e560040791e45c5b3575fa0ccccd7b0030727e9785fc03132d6368e33dfc0f1",
+        "contentType": "image/webp",
+        "cacheControl": "public, max-age=0, must-revalidate",
+        "etag": "\"4d32a42efa548e93a108241d10e4d360\"",
+        "conditionalStatus": 304,
+        "cdnFirst": "MISS",
+        "cdnRepeat": "HIT"
+      }
+    ],
+    "excluded": [
+      {
+        "route": "/qa/verify.cjs",
+        "status": 404
+      },
+      {
+        "route": "/README.md",
+        "status": 404
+      },
+      {
+        "route": "/vercel.json",
+        "status": 404
+      },
+      {
+        "route": "/scripts/build-static.cjs",
+        "status": 404
+      },
+      {
+        "route": "/.git/config",
+        "status": 404
+      },
+      {
+        "route": "/.env.local",
+        "status": 404
+      },
+      {
+        "route": "/assets/images/author-portrait.png",
+        "status": 404
+      },
+      {
+        "route": "/missing-page",
+        "status": 404
+      }
+    ],
+    "httpRedirect": {
+      "status": 308,
+      "location": "https://pillars-of-pension-website.vercel.app/"
+    },
+    "home": {
+      "status": 200,
+      "signInRequired": false,
+      "hsts": "max-age=63072000; includeSubDomains; preload"
+    },
+    "deploymentUrlStatus": 200
+  },
+  "fontAndImageChecks": [
+    {
+      "route": "/",
+      "width": 390,
+      "fontReady": true,
+      "fonts": [
+        {
+          "family": "Geist",
+          "status": "loaded",
+          "weight": "400 500"
+        }
+      ],
+      "images": [
+        {
+          "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+          "visible": false,
+          "naturalWidth": 1,
+          "naturalHeight": 1
+        },
+        {
+          "source": "https://pillars-of-pension-website.vercel.app/assets/images/delivery/interior-1536.avif",
+          "visible": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024
+        },
+        {
+          "source": "https://pillars-of-pension-website.vercel.app/assets/images/book-contact-shadow.svg",
+          "visible": false,
+          "naturalWidth": 433,
+          "naturalHeight": 58
+        },
+        {
+          "source": "https://pillars-of-pension-website.vercel.app/assets/images/book-cover.png",
+          "visible": true,
+          "naturalWidth": 480,
+          "naturalHeight": 691
+        }
+      ],
+      "fontResources": [
+        "https://pillars-of-pension-website.vercel.app/assets/fonts/geist-latin.woff2"
+      ],
+      "tls": {
+        "issuer": "WR1",
+        "protocol": "TLS 1.3",
+        "subjectName": "*.vercel.app",
+        "validFrom": 1793447170,
+        "validTo": 1801223169
+      }
+    },
+    {
+      "route": "/book.html",
+      "width": 390,
+      "fontReady": true,
+      "fonts": [
+        {
+          "family": "Geist",
+          "status": "loaded",
+          "weight": "400 500"
+        }
+      ],
+      "images": [
+        {
+          "source": "https://pillars-of-pension-website.vercel.app/assets/images/delivery/interior-1536.avif",
+          "visible": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024
+        }
+      ],
+      "fontResources": [
+        "https://pillars-of-pension-website.vercel.app/assets/fonts/geist-latin.woff2"
+      ],
+      "tls": {
+        "issuer": "WR1",
+        "protocol": "TLS 1.3",
+        "subjectName": "*.vercel.app",
+        "validFrom": 1793447170,
+        "validTo": 1801223169
+      }
+    },
+    {
+      "route": "/author.html",
+      "width": 390,
+      "fontReady": true,
+      "fonts": [
+        {
+          "family": "Geist",
+          "status": "loaded",
+          "weight": "400 500"
+        }
+      ],
+      "images": [
+        {
+          "source": "https://pillars-of-pension-website.vercel.app/assets/images/delivery/interior-1536.avif",
+          "visible": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024
+        },
+        {
+          "source": "https://pillars-of-pension-website.vercel.app/assets/images/delivery/author-1153.avif",
+          "visible": true,
+          "naturalWidth": 1153,
+          "naturalHeight": 1364
+        }
+      ],
+      "fontResources": [
+        "https://pillars-of-pension-website.vercel.app/assets/fonts/geist-latin.woff2"
+      ],
+      "tls": {
+        "issuer": "WR1",
+        "protocol": "TLS 1.3",
+        "subjectName": "*.vercel.app",
+        "validFrom": 1793447170,
+        "validTo": 1801223169
+      }
+    },
+    {
+      "route": "/launch.html",
+      "width": 390,
+      "fontReady": true,
+      "fonts": [
+        {
+          "family": "Geist",
+          "status": "loaded",
+          "weight": "400 500"
+        }
+      ],
+      "images": [
+        {
+          "source": "https://pillars-of-pension-website.vercel.app/assets/images/delivery/interior-1536.avif",
+          "visible": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024
+        }
+      ],
+      "fontResources": [
+        "https://pillars-of-pension-website.vercel.app/assets/fonts/geist-latin.woff2"
+      ],
+      "tls": {
+        "issuer": "WR1",
+        "protocol": "TLS 1.3",
+        "subjectName": "*.vercel.app",
+        "validFrom": 1793447170,
+        "validTo": 1801223169
+      }
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "fontReady": true,
+      "fonts": [
+        {
+          "family": "Geist",
+          "status": "loaded",
+          "weight": "400 500"
+        }
+      ],
+      "images": [
+        {
+          "source": "https://pillars-of-pension-website.vercel.app/assets/images/delivery/interior-1536.avif",
+          "visible": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024
+        },
+        {
+          "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+          "visible": false,
+          "naturalWidth": 1,
+          "naturalHeight": 1
+        },
+        {
+          "source": "https://pillars-of-pension-website.vercel.app/assets/images/book-contact-shadow.svg",
+          "visible": true,
+          "naturalWidth": 433,
+          "naturalHeight": 58
+        },
+        {
+          "source": "https://pillars-of-pension-website.vercel.app/assets/images/book-cover.png",
+          "visible": true,
+          "naturalWidth": 480,
+          "naturalHeight": 691
+        }
+      ],
+      "fontResources": [
+        "https://pillars-of-pension-website.vercel.app/assets/fonts/geist-latin.woff2"
+      ],
+      "tls": {
+        "issuer": "WR1",
+        "protocol": "TLS 1.3",
+        "subjectName": "*.vercel.app",
+        "validFrom": 1793447170,
+        "validTo": 1801223169
+      }
+    },
+    {
+      "route": "/book.html",
+      "width": 1440,
+      "fontReady": true,
+      "fonts": [
+        {
+          "family": "Geist",
+          "status": "loaded",
+          "weight": "400 500"
+        }
+      ],
+      "images": [
+        {
+          "source": "https://pillars-of-pension-website.vercel.app/assets/images/delivery/interior-1536.avif",
+          "visible": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024
+        }
+      ],
+      "fontResources": [
+        "https://pillars-of-pension-website.vercel.app/assets/fonts/geist-latin.woff2"
+      ],
+      "tls": {
+        "issuer": "WR1",
+        "protocol": "TLS 1.3",
+        "subjectName": "*.vercel.app",
+        "validFrom": 1793447170,
+        "validTo": 1801223169
+      }
+    },
+    {
+      "route": "/author.html",
+      "width": 1440,
+      "fontReady": true,
+      "fonts": [
+        {
+          "family": "Geist",
+          "status": "loaded",
+          "weight": "400 500"
+        }
+      ],
+      "images": [
+        {
+          "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+          "visible": false,
+          "naturalWidth": 1,
+          "naturalHeight": 1
+        },
+        {
+          "source": "https://pillars-of-pension-website.vercel.app/assets/images/delivery/author-1153.avif",
+          "visible": true,
+          "naturalWidth": 1153,
+          "naturalHeight": 1364
+        }
+      ],
+      "fontResources": [
+        "https://pillars-of-pension-website.vercel.app/assets/fonts/geist-latin.woff2"
+      ],
+      "tls": {
+        "issuer": "WR1",
+        "protocol": "TLS 1.3",
+        "subjectName": "*.vercel.app",
+        "validFrom": 1793447170,
+        "validTo": 1801223169
+      }
+    },
+    {
+      "route": "/launch.html",
+      "width": 1440,
+      "fontReady": true,
+      "fonts": [
+        {
+          "family": "Geist",
+          "status": "loaded",
+          "weight": "400 500"
+        }
+      ],
+      "images": [
+        {
+          "source": "https://pillars-of-pension-website.vercel.app/assets/images/delivery/interior-1536.avif",
+          "visible": true,
+          "naturalWidth": 1536,
+          "naturalHeight": 1024
+        }
+      ],
+      "fontResources": [
+        "https://pillars-of-pension-website.vercel.app/assets/fonts/geist-latin.woff2"
+      ],
+      "tls": {
+        "issuer": "WR1",
+        "protocol": "TLS 1.3",
+        "subjectName": "*.vercel.app",
+        "validFrom": 1793447170,
+        "validTo": 1801223169
+      }
+    }
+  ],
+  "visualComparison": {
+    "cases": [
+      {
+        "page": "home",
+        "width": 320,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.06581263462574044,
+        "maximumChannelError": 11
+      },
+      {
+        "page": "home",
+        "width": 375,
+        "pixelIdentical": true,
+        "meanAbsoluteError": 0.0,
+        "maximumChannelError": 0
+      },
+      {
+        "page": "home",
+        "width": 390,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.019915844838921764,
+        "maximumChannelError": 2
+      },
+      {
+        "page": "home",
+        "width": 430,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.060562015503875966,
+        "maximumChannelError": 18
+      },
+      {
+        "page": "home",
+        "width": 768,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.04406696428571429,
+        "maximumChannelError": 16
+      },
+      {
+        "page": "home",
+        "width": 1440,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.12768433830171635,
+        "maximumChannelError": 15
+      },
+      {
+        "page": "book",
+        "width": 320,
+        "pixelIdentical": true,
+        "meanAbsoluteError": 0.0,
+        "maximumChannelError": 0
+      },
+      {
+        "page": "book",
+        "width": 375,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.015995098039215686,
+        "maximumChannelError": 1
+      },
+      {
+        "page": "book",
+        "width": 390,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.015933710991850526,
+        "maximumChannelError": 1
+      },
+      {
+        "page": "book",
+        "width": 430,
+        "pixelIdentical": true,
+        "meanAbsoluteError": 0.0,
+        "maximumChannelError": 0
+      },
+      {
+        "page": "book",
+        "width": 768,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.015907656916227742,
+        "maximumChannelError": 1
+      },
+      {
+        "page": "book",
+        "width": 1440,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.05831890111382776,
+        "maximumChannelError": 1
+      },
+      {
+        "page": "author",
+        "width": 320,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.047512800141242935,
+        "maximumChannelError": 14
+      },
+      {
+        "page": "author",
+        "width": 375,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.05228052269388386,
+        "maximumChannelError": 7
+      },
+      {
+        "page": "author",
+        "width": 390,
+        "pixelIdentical": true,
+        "meanAbsoluteError": 0.0,
+        "maximumChannelError": 0
+      },
+      {
+        "page": "author",
+        "width": 430,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.05819924719831953,
+        "maximumChannelError": 8
+      },
+      {
+        "page": "author",
+        "width": 768,
+        "pixelIdentical": true,
+        "meanAbsoluteError": 0.0,
+        "maximumChannelError": 0
+      },
+      {
+        "page": "author",
+        "width": 1440,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.06368174409127954,
+        "maximumChannelError": 8
+      },
+      {
+        "page": "launch",
+        "width": 320,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.02881162572500853,
+        "maximumChannelError": 1
+      },
+      {
+        "page": "launch",
+        "width": 375,
+        "pixelIdentical": true,
+        "meanAbsoluteError": 0.0,
+        "maximumChannelError": 0
+      },
+      {
+        "page": "launch",
+        "width": 390,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.02847204784092706,
+        "maximumChannelError": 1
+      },
+      {
+        "page": "launch",
+        "width": 430,
+        "pixelIdentical": true,
+        "meanAbsoluteError": 0.0,
+        "maximumChannelError": 0
+      },
+      {
+        "page": "launch",
+        "width": 768,
+        "pixelIdentical": false,
+        "meanAbsoluteError": 0.030814412840984698,
+        "maximumChannelError": 1
+      },
+      {
+        "page": "launch",
+        "width": 1440,
+        "pixelIdentical": true,
+        "meanAbsoluteError": 0.0,
+        "maximumChannelError": 0
+      }
+    ],
+    "maximumMeanAbsoluteError": 0.12768433830171635,
+    "pixelIdenticalCases": 8
+  },
+  "layoutShiftDiagnostic": {
+    "conditions": {
+      "browser": "147.0.7727.15",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "deviceScaleFactor": 1,
+      "network": {
+        "downloadMbps": 1.6,
+        "uploadMbps": 0.75,
+        "latencyMs": 150
+      },
+      "cpuSlowdown": 4,
+      "repetitions": 3
+    },
+    "concurrentWithOtherBrowserChecks": true,
+    "purpose": "Layout-shift reproduction, not a new LCP benchmark",
+    "pages": [
+      {
+        "route": "/",
+        "coldCls": [
+          0,
+          0,
+          0
+        ],
+        "warmCls": [
+          0.47393364928909953,
+          0.47393364928909953,
+          0.47393364928909953
+        ]
+      },
+      {
+        "route": "/book.html",
+        "coldCls": [
+          0,
+          0,
+          0
+        ],
+        "warmCls": [
+          0.47393364928909953,
+          0.47393364928909953,
+          0.47393364928909953
+        ]
+      },
+      {
+        "route": "/author.html",
+        "coldCls": [
+          0,
+          0.47393364928909953,
+          0
+        ],
+        "warmCls": [
+          0,
+          0.47393364928909953,
+          0
+        ]
+      },
+      {
+        "route": "/launch.html",
+        "coldCls": [
+          0,
+          0,
+          0.0032327440982906942
+        ],
+        "warmCls": [
+          0.47393364928909953,
+          0.47393364928909953,
+          0
+        ]
+      }
+    ]
+  },
+  "breakpointFocusDiagnostic": {
+    "iterations": 10,
+    "failedAfterOneSecond": 8,
+    "failure": "Open mobile menu resized to desktop: menu closes, inertness clears, but keyboard focus falls to body instead of the active desktop link"
+  },
+  "originalInteractionScriptSha256": "f61dbb153daefcfa263b6122156c1e90617e1b10e1aeae914131fd05cf502f00",
+  "diagnosticHarness": "An ignored copy records the confirmed breakpoint focus failure and runs all other original assertions; deployed navigation and original test source unchanged.",
+  "screenshotsAndRawTraces": "Ignored qa/artifacts/hosted-production/; not committed or deployed",
+  "remainingIssues": [
+    "Navigation-bootstrap layout shift reproduces on the hosted site",
+    "Intermittent keyboard focus loss when an open mobile menu changes to desktop"
+  ],
+  "pendingOwnerInformation": [
+    "Acquisition destination or deliberate retention of Coming soon",
+    "Printed author-name order",
+    "Venue",
+    "Start time",
+    "RSVP details"
+  ]
+}
