@@ -19,6 +19,12 @@
 !/assets/images/author-portrait.webp
 !/assets/images/book-cover.png
 !/assets/images/book-contact-shadow.svg
+!/assets/images/delivery/
+/assets/images/delivery/*
+!/assets/images/delivery/interior-1536.avif
+!/assets/images/delivery/interior-1536.webp
+!/assets/images/delivery/author-1153.avif
+!/assets/images/delivery/author-1153.webp
 !/assets/fonts/
 /assets/fonts/*
 !/assets/fonts/geist-latin.woff2

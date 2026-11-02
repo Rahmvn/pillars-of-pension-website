@@ -1,0 +1,565 @@
+{
+  "browser": "147.0.7727.15",
+  "site": "http://127.0.0.1:8082/sites/native-webp95",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "deviceScaleFactor": 1,
+  "network": {
+    "downloadMbps": 1.6,
+    "uploadMbps": 0.75,
+    "latencyMs": 150
+  },
+  "cpuSlowdown": 4,
+  "repetitions": 1,
+  "runs": [
+    {
+      "run": 1,
+      "route": "/",
+      "state": "cold",
+      "lcp": 1920,
+      "cls": 0,
+      "lcpEntries": [
+        {
+          "at": 1488,
+          "loadTime": 0,
+          "renderTime": 1488,
+          "size": 30940,
+          "tag": "P",
+          "class": "home-introduction",
+          "url": "",
+          "text": "Explore the institutions, benefits, and reforms shaping Nigeria’s pension system."
+        },
+        {
+          "at": 1536,
+          "loadTime": 1474.5999999996275,
+          "renderTime": 1536,
+          "size": 104760,
+          "tag": "IMG",
+          "class": "book-cover",
+          "url": "http://127.0.0.1:8082/sites/native-webp95/assets/images/book-cover.png",
+          "text": ""
+        },
+        {
+          "at": 1920,
+          "loadTime": 1875.2999999988824,
+          "renderTime": 1920,
+          "size": 255657,
+          "tag": "IMG",
+          "class": "stone-scene",
+          "url": "http://127.0.0.1:8082/delivery/interior-1536-q95.webp",
+          "text": ""
+        }
+      ],
+      "loadMs": 1877.5,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/assets/fonts/geist-latin.woff2",
+          "startMs": 209.2999999988824,
+          "requestMs": 212.7999999988824,
+          "responseStartMs": 215.89999999850988,
+          "endMs": 960.2999999988824,
+          "transferBytes": 29700,
+          "encodedBytes": 29400,
+          "initiator": "link",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Font"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/styles.css",
+          "startMs": 213.89999999850988,
+          "requestMs": 216.09999999962747,
+          "responseStartMs": 217.89999999850988,
+          "endMs": 868.5,
+          "transferBytes": 23397,
+          "encodedBytes": 23097,
+          "initiator": "link",
+          "initialPriority": "VeryHigh",
+          "priorityChanges": [],
+          "type": "Stylesheet"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/navigation.js",
+          "startMs": 216.7999999988824,
+          "requestMs": 227.39999999850988,
+          "responseStartMs": 231.09999999962747,
+          "endMs": 490.59999999962747,
+          "transferBytes": 3307,
+          "encodedBytes": 3007,
+          "initiator": "script",
+          "initialPriority": "Low",
+          "priorityChanges": [],
+          "type": "Script"
+        },
+        {
+          "url": "http://127.0.0.1:8082/delivery/interior-1536-q95.webp",
+          "startMs": 219,
+          "requestMs": 221.39999999850988,
+          "responseStartMs": 225.19999999925494,
+          "endMs": 1868,
+          "transferBytes": 158472,
+          "encodedBytes": 158172,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/assets/images/book-contact-shadow.svg",
+          "startMs": 220.39999999850988,
+          "requestMs": 223.5,
+          "responseStartMs": 227.19999999925494,
+          "endMs": 404,
+          "transferBytes": 1022,
+          "encodedBytes": 722,
+          "initiator": "img",
+          "initialPriority": "Medium",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/assets/images/book-cover.png",
+          "startMs": 220.69999999925494,
+          "requestMs": 225.39999999850988,
+          "responseStartMs": 229.09999999962747,
+          "endMs": 1451.3999999985099,
+          "transferBytes": 77158,
+          "encodedBytes": 76858,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8082/favicon.ico",
+          "startMs": 1882.8999999985099,
+          "requestMs": 1885,
+          "responseStartMs": 1886.5999999996275,
+          "endMs": 2054.5999999996275,
+          "transferBytes": 309,
+          "encodedBytes": 9,
+          "initiator": "other",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Other"
+        }
+      ],
+      "images": [
+        {
+          "class": "scene",
+          "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1,
+          "naturalHeight": 1,
+          "priority": "high",
+          "loading": "auto"
+        },
+        {
+          "class": "stone-scene",
+          "currentSrc": "http://127.0.0.1:8082/delivery/interior-1536-q95.webp",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1000,
+          "naturalHeight": 666,
+          "priority": "high",
+          "loading": "auto"
+        },
+        {
+          "class": "book-contact-shadow",
+          "currentSrc": "http://127.0.0.1:8082/sites/native-webp95/assets/images/book-contact-shadow.svg",
+          "source": "assets/images/book-contact-shadow.svg",
+          "naturalWidth": 433,
+          "naturalHeight": 58,
+          "priority": "auto",
+          "loading": "auto"
+        },
+        {
+          "class": "book-cover",
+          "currentSrc": "http://127.0.0.1:8082/sites/native-webp95/assets/images/book-cover.png",
+          "source": "assets/images/book-cover.png",
+          "naturalWidth": 480,
+          "naturalHeight": 691,
+          "priority": "high",
+          "loading": "auto"
+        }
+      ],
+      "transferBytes": 293365
+    },
+    {
+      "run": 1,
+      "route": "/",
+      "state": "warm",
+      "lcp": 544,
+      "cls": 0.47393364928909953,
+      "lcpEntries": [
+        {
+          "at": 544,
+          "loadTime": 429.69999999925494,
+          "renderTime": 544,
+          "size": 92247,
+          "tag": "IMG",
+          "class": "stone-scene",
+          "url": "http://127.0.0.1:8082/delivery/interior-1536-q95.webp",
+          "text": ""
+        }
+      ],
+      "loadMs": 495.69999999925494,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/assets/fonts/geist-latin.woff2",
+          "startMs": 223.09999999962747,
+          "requestMs": 226.09999999962747,
+          "responseStartMs": 227.90000000037253,
+          "endMs": 390.80000000074506,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "link",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Font"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/styles.css",
+          "startMs": 227.5,
+          "requestMs": 228.80000000074506,
+          "responseStartMs": 230.69999999925494,
+          "endMs": 408.59999999962747,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "link",
+          "initialPriority": "VeryHigh",
+          "priorityChanges": [],
+          "type": "Stylesheet"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/navigation.js",
+          "startMs": 231.09999999962747,
+          "requestMs": 253,
+          "responseStartMs": 254.5,
+          "endMs": 433.69999999925494,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "script",
+          "initialPriority": "Low",
+          "priorityChanges": [],
+          "type": "Script"
+        },
+        {
+          "url": "http://127.0.0.1:8082/delivery/interior-1536-q95.webp",
+          "startMs": 234.5,
+          "requestMs": 236.30000000074506,
+          "responseStartMs": 239,
+          "endMs": 409.80000000074506,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/assets/images/book-contact-shadow.svg",
+          "startMs": 237.69999999925494,
+          "requestMs": 239.19999999925494,
+          "responseStartMs": 241,
+          "endMs": 416.90000000037253,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "img",
+          "initialPriority": "Medium",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/assets/images/book-cover.png",
+          "startMs": 239.80000000074506,
+          "requestMs": 240.69999999925494,
+          "responseStartMs": 243.40000000037253,
+          "endMs": 417.5,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        }
+      ],
+      "images": [
+        {
+          "class": "scene",
+          "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1,
+          "naturalHeight": 1,
+          "priority": "high",
+          "loading": "auto"
+        },
+        {
+          "class": "stone-scene",
+          "currentSrc": "http://127.0.0.1:8082/delivery/interior-1536-q95.webp",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1000,
+          "naturalHeight": 666,
+          "priority": "high",
+          "loading": "auto"
+        },
+        {
+          "class": "book-contact-shadow",
+          "currentSrc": "http://127.0.0.1:8082/sites/native-webp95/assets/images/book-contact-shadow.svg",
+          "source": "assets/images/book-contact-shadow.svg",
+          "naturalWidth": 433,
+          "naturalHeight": 58,
+          "priority": "auto",
+          "loading": "auto"
+        },
+        {
+          "class": "book-cover",
+          "currentSrc": "http://127.0.0.1:8082/sites/native-webp95/assets/images/book-cover.png",
+          "source": "assets/images/book-cover.png",
+          "naturalWidth": 480,
+          "naturalHeight": 691,
+          "priority": "high",
+          "loading": "auto"
+        }
+      ],
+      "transferBytes": 1800
+    },
+    {
+      "run": 1,
+      "route": "/author.html",
+      "state": "cold",
+      "lcp": 3016,
+      "cls": 0,
+      "lcpEntries": [
+        {
+          "at": 1184,
+          "loadTime": 0,
+          "renderTime": 1184,
+          "size": 19140,
+          "tag": "P",
+          "class": "reading-lead",
+          "url": "",
+          "text": "His work brings together academic research and professional practice in accounting, finance and pens"
+        },
+        {
+          "at": 3016,
+          "loadTime": 2974.9000000003725,
+          "renderTime": 3016,
+          "size": 185250,
+          "tag": "IMG",
+          "class": "",
+          "url": "http://127.0.0.1:8082/delivery/author-portrait-1153-q95.webp",
+          "text": ""
+        }
+      ],
+      "loadMs": 2982.0999999996275,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/assets/fonts/geist-latin.woff2",
+          "startMs": 246.7999999988824,
+          "requestMs": 251.7999999988824,
+          "responseStartMs": 254.09999999962747,
+          "endMs": 966.1999999992549,
+          "transferBytes": 29700,
+          "encodedBytes": 29400,
+          "initiator": "link",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Font"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/styles.css",
+          "startMs": 252.19999999925494,
+          "requestMs": 254.40000000037253,
+          "responseStartMs": 256,
+          "endMs": 889.4000000003725,
+          "transferBytes": 23397,
+          "encodedBytes": 23097,
+          "initiator": "link",
+          "initialPriority": "VeryHigh",
+          "priorityChanges": [],
+          "type": "Stylesheet"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/navigation.js",
+          "startMs": 255.19999999925494,
+          "requestMs": 283.09999999962747,
+          "responseStartMs": 285.69999999925494,
+          "endMs": 540.5,
+          "transferBytes": 3307,
+          "encodedBytes": 3007,
+          "initiator": "script",
+          "initialPriority": "Low",
+          "priorityChanges": [],
+          "type": "Script"
+        },
+        {
+          "url": "http://127.0.0.1:8082/delivery/interior-1536-q95.webp",
+          "startMs": 258,
+          "requestMs": 260.40000000037253,
+          "responseStartMs": 263,
+          "endMs": 2280.699999999255,
+          "transferBytes": 158472,
+          "encodedBytes": 158172,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8082/delivery/author-portrait-1153-q95.webp",
+          "startMs": 260.19999999925494,
+          "requestMs": 261.7999999988824,
+          "responseStartMs": 266.90000000037253,
+          "endMs": 2968.199999999255,
+          "transferBytes": 292324,
+          "encodedBytes": 292024,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        }
+      ],
+      "images": [
+        {
+          "class": "scene",
+          "currentSrc": "http://127.0.0.1:8082/delivery/interior-1536-q95.webp",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1735,
+          "naturalHeight": 1156,
+          "priority": "high",
+          "loading": "auto"
+        },
+        {
+          "class": "",
+          "currentSrc": "http://127.0.0.1:8082/delivery/author-portrait-1153-q95.webp",
+          "source": "assets/images/author-portrait.webp",
+          "naturalWidth": 390,
+          "naturalHeight": 461,
+          "priority": "high",
+          "loading": "auto"
+        }
+      ],
+      "transferBytes": 507200
+    },
+    {
+      "run": 1,
+      "route": "/author.html",
+      "state": "warm",
+      "lcp": 648,
+      "cls": 0.47393364928909953,
+      "lcpEntries": [
+        {
+          "at": 596,
+          "loadTime": 0,
+          "renderTime": 596,
+          "size": 10535,
+          "tag": "H1",
+          "class": "page-title",
+          "url": "",
+          "text": "Saheed Adekunle Imran"
+        },
+        {
+          "at": 648,
+          "loadTime": 498.80000000074506,
+          "renderTime": 648,
+          "size": 54210,
+          "tag": "IMG",
+          "class": "",
+          "url": "http://127.0.0.1:8082/delivery/author-portrait-1153-q95.webp",
+          "text": ""
+        }
+      ],
+      "loadMs": 523.8000000007451,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/assets/fonts/geist-latin.woff2",
+          "startMs": 242.09999999962747,
+          "requestMs": 245.19999999925494,
+          "responseStartMs": 247.5,
+          "endMs": 405.19999999925494,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "link",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Font"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/styles.css",
+          "startMs": 247.19999999925494,
+          "requestMs": 249.30000000074506,
+          "responseStartMs": 251.09999999962747,
+          "endMs": 421.30000000074506,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "link",
+          "initialPriority": "VeryHigh",
+          "priorityChanges": [],
+          "type": "Stylesheet"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/native-webp95/navigation.js",
+          "startMs": 251.80000000074506,
+          "requestMs": 276.90000000037253,
+          "responseStartMs": 278.5,
+          "endMs": 446.90000000037253,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "script",
+          "initialPriority": "Low",
+          "priorityChanges": [],
+          "type": "Script"
+        },
+        {
+          "url": "http://127.0.0.1:8082/delivery/interior-1536-q95.webp",
+          "startMs": 253.69999999925494,
+          "requestMs": 255.69999999925494,
+          "responseStartMs": 258.09999999962747,
+          "endMs": 430,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8082/delivery/author-portrait-1153-q95.webp",
+          "startMs": 256.09999999962747,
+          "requestMs": 258,
+          "responseStartMs": 260.90000000037253,
+          "endMs": 437.30000000074506,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        }
+      ],
+      "images": [
+        {
+          "class": "scene",
+          "currentSrc": "http://127.0.0.1:8082/delivery/interior-1536-q95.webp",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1735,
+          "naturalHeight": 1156,
+          "priority": "high",
+          "loading": "auto"
+        },
+        {
+          "class": "",
+          "currentSrc": "http://127.0.0.1:8082/delivery/author-portrait-1153-q95.webp",
+          "source": "assets/images/author-portrait.webp",
+          "naturalWidth": 390,
+          "naturalHeight": 461,
+          "priority": "high",
+          "loading": "auto"
+        }
+      ],
+      "transferBytes": 1500
+    }
+  ]
+}

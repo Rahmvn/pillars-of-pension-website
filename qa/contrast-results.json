@@ -150,7 +150,7 @@
       "offset": 4,
       "adjacentRatios": [
         11.471,
-        10.69
+        10.704
       ],
       "passed": true
     },
@@ -346,7 +346,7 @@
       "offset": 4,
       "adjacentRatios": [
         11.471,
-        9.983
+        10.049
       ],
       "passed": true
     },
@@ -682,7 +682,7 @@
       "offset": 4,
       "adjacentRatios": [
         11.471,
-        11.193
+        11.264
       ],
       "passed": true
     },
@@ -696,7 +696,7 @@
       "offset": 4,
       "adjacentRatios": [
         11.471,
-        10.773
+        10.766
       ],
       "passed": true
     },
@@ -780,7 +780,7 @@
       "offset": 4,
       "adjacentRatios": [
         11.471,
-        10.263
+        10.309
       ],
       "passed": true
     },
@@ -878,7 +878,7 @@
       "offset": 4,
       "adjacentRatios": [
         11.471,
-        11.674
+        11.667
       ],
       "passed": true
     },
@@ -934,7 +934,7 @@
       "offset": 4,
       "adjacentRatios": [
         11.471,
-        8.87
+        8.809
       ],
       "passed": true
     },
@@ -948,7 +948,7 @@
       "offset": 4,
       "adjacentRatios": [
         11.471,
-        8.328
+        8.309
       ],
       "passed": true
     },
@@ -962,7 +962,7 @@
       "offset": 4,
       "adjacentRatios": [
         11.471,
-        7.183
+        7.178
       ],
       "passed": true
     },
@@ -976,7 +976,7 @@
       "offset": 4,
       "adjacentRatios": [
         11.471,
-        6.89
+        6.851
       ],
       "passed": true
     },

@@ -1,0 +1,767 @@
+[
+  {
+    "file": "qa/artifacts/image-lab/delivery/interior-1536-q80.avif",
+    "original": "assets/images/interior.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "avif",
+    "quality": 80,
+    "bytes": 88588,
+    "meanAbsoluteError": 1.1071,
+    "psnrDb": 44.087,
+    "meanChannelShift": [
+      -0.6563,
+      0.566,
+      -0.5949
+    ],
+    "seconds": 4.17
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/interior-1536-q90.avif",
+    "original": "assets/images/interior.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "avif",
+    "quality": 90,
+    "bytes": 143867,
+    "meanAbsoluteError": 0.9824,
+    "psnrDb": 45.474,
+    "meanChannelShift": [
+      -0.6698,
+      0.557,
+      -0.606
+    ],
+    "seconds": 6.31
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/interior-1536-q95.avif",
+    "original": "assets/images/interior.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "avif",
+    "quality": 95,
+    "bytes": 264288,
+    "meanAbsoluteError": 0.8813,
+    "psnrDb": 46.615,
+    "meanChannelShift": [
+      -0.6725,
+      0.5559,
+      -0.6141
+    ],
+    "seconds": 9.09
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/interior-1536-q90.webp",
+    "original": "assets/images/interior.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "webp",
+    "quality": 90,
+    "bytes": 102698,
+    "meanAbsoluteError": 1.1022,
+    "psnrDb": 43.787,
+    "meanChannelShift": [
+      0.0088,
+      0.2743,
+      0.0591
+    ],
+    "seconds": 0.8
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/interior-1536-q95.webp",
+    "original": "assets/images/interior.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "webp",
+    "quality": 95,
+    "bytes": 158172,
+    "meanAbsoluteError": 0.9426,
+    "psnrDb": 45.447,
+    "meanChannelShift": [
+      0.0003,
+      0.2056,
+      0.03
+    ],
+    "seconds": 0.89
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/interior-1280-q80.avif",
+    "original": "assets/images/interior.png",
+    "width": 1280,
+    "height": 853,
+    "format": "avif",
+    "quality": 80,
+    "bytes": 66264,
+    "meanAbsoluteError": 1.1218,
+    "psnrDb": 44.015,
+    "meanChannelShift": [
+      -0.6483,
+      0.5652,
+      -0.5952
+    ],
+    "seconds": 3.18
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/interior-1280-q90.avif",
+    "original": "assets/images/interior.png",
+    "width": 1280,
+    "height": 853,
+    "format": "avif",
+    "quality": 90,
+    "bytes": 104214,
+    "meanAbsoluteError": 0.9925,
+    "psnrDb": 45.417,
+    "meanChannelShift": [
+      -0.6582,
+      0.5585,
+      -0.6022
+    ],
+    "seconds": 4.18
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/interior-1280-q95.avif",
+    "original": "assets/images/interior.png",
+    "width": 1280,
+    "height": 853,
+    "format": "avif",
+    "quality": 95,
+    "bytes": 190510,
+    "meanAbsoluteError": 0.8948,
+    "psnrDb": 46.483,
+    "meanChannelShift": [
+      -0.6652,
+      0.5585,
+      -0.6099
+    ],
+    "seconds": 6.65
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/interior-1280-q90.webp",
+    "original": "assets/images/interior.png",
+    "width": 1280,
+    "height": 853,
+    "format": "webp",
+    "quality": 90,
+    "bytes": 74352,
+    "meanAbsoluteError": 1.1376,
+    "psnrDb": 43.584,
+    "meanChannelShift": [
+      0.0229,
+      0.2802,
+      0.0649
+    ],
+    "seconds": 0.54
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/interior-1280-q95.webp",
+    "original": "assets/images/interior.png",
+    "width": 1280,
+    "height": 853,
+    "format": "webp",
+    "quality": 95,
+    "bytes": 115492,
+    "meanAbsoluteError": 0.9678,
+    "psnrDb": 45.298,
+    "meanChannelShift": [
+      0.0051,
+      0.2128,
+      0.032
+    ],
+    "seconds": 0.58
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/interior-1024-q80.avif",
+    "original": "assets/images/interior.png",
+    "width": 1024,
+    "height": 683,
+    "format": "avif",
+    "quality": 80,
+    "bytes": 47005,
+    "meanAbsoluteError": 1.1386,
+    "psnrDb": 43.941,
+    "meanChannelShift": [
+      -0.6474,
+      0.5622,
+      -0.5991
+    ],
+    "seconds": 2.29
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/interior-1024-q90.avif",
+    "original": "assets/images/interior.png",
+    "width": 1024,
+    "height": 683,
+    "format": "avif",
+    "quality": 90,
+    "bytes": 75189,
+    "meanAbsoluteError": 0.9947,
+    "psnrDb": 45.414,
+    "meanChannelShift": [
+      -0.6623,
+      0.5601,
+      -0.6095
+    ],
+    "seconds": 3.22
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/interior-1024-q95.avif",
+    "original": "assets/images/interior.png",
+    "width": 1024,
+    "height": 683,
+    "format": "avif",
+    "quality": 95,
+    "bytes": 130092,
+    "meanAbsoluteError": 0.8921,
+    "psnrDb": 46.511,
+    "meanChannelShift": [
+      -0.668,
+      0.5573,
+      -0.6131
+    ],
+    "seconds": 4.6
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/interior-1024-q90.webp",
+    "original": "assets/images/interior.png",
+    "width": 1024,
+    "height": 683,
+    "format": "webp",
+    "quality": 90,
+    "bytes": 51084,
+    "meanAbsoluteError": 1.1715,
+    "psnrDb": 43.335,
+    "meanChannelShift": [
+      0.0022,
+      0.2676,
+      0.0513
+    ],
+    "seconds": 0.37
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/interior-1024-q95.webp",
+    "original": "assets/images/interior.png",
+    "width": 1024,
+    "height": 683,
+    "format": "webp",
+    "quality": 95,
+    "bytes": 83410,
+    "meanAbsoluteError": 0.9781,
+    "psnrDb": 45.162,
+    "meanChannelShift": [
+      -0.0132,
+      0.1945,
+      0.0169
+    ],
+    "seconds": 0.41
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-1153-q80.avif",
+    "original": "assets/images/author-portrait.png",
+    "width": 1153,
+    "height": 1364,
+    "format": "avif",
+    "quality": 80,
+    "bytes": 168082,
+    "meanAbsoluteError": 1.1393,
+    "psnrDb": 44.189,
+    "meanChannelShift": [
+      -0.5242,
+      0.5347,
+      -0.7214
+    ],
+    "seconds": 5.83
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-1153-q90.avif",
+    "original": "assets/images/author-portrait.png",
+    "width": 1153,
+    "height": 1364,
+    "format": "avif",
+    "quality": 90,
+    "bytes": 240059,
+    "meanAbsoluteError": 0.9312,
+    "psnrDb": 45.875,
+    "meanChannelShift": [
+      -0.5368,
+      0.5443,
+      -0.7378
+    ],
+    "seconds": 6.26
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-1153-q95.avif",
+    "original": "assets/images/author-portrait.png",
+    "width": 1153,
+    "height": 1364,
+    "format": "avif",
+    "quality": 95,
+    "bytes": 337292,
+    "meanAbsoluteError": 0.8141,
+    "psnrDb": 46.871,
+    "meanChannelShift": [
+      -0.5291,
+      0.5447,
+      -0.74
+    ],
+    "seconds": 7.62
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-1153-q90.webp",
+    "original": "assets/images/author-portrait.png",
+    "width": 1153,
+    "height": 1364,
+    "format": "webp",
+    "quality": 90,
+    "bytes": 177030,
+    "meanAbsoluteError": 1.4365,
+    "psnrDb": 41.982,
+    "meanChannelShift": [
+      -0.0299,
+      0.0857,
+      0.0105
+    ],
+    "seconds": 1.03
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-1153-q95.webp",
+    "original": "assets/images/author-portrait.png",
+    "width": 1153,
+    "height": 1364,
+    "format": "webp",
+    "quality": 95,
+    "bytes": 292024,
+    "meanAbsoluteError": 0.9998,
+    "psnrDb": 45.122,
+    "meanChannelShift": [
+      0.0868,
+      0.0363,
+      0.1391
+    ],
+    "seconds": 1.07
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-960-q80.avif",
+    "original": "assets/images/author-portrait.png",
+    "width": 960,
+    "height": 1136,
+    "format": "avif",
+    "quality": 80,
+    "bytes": 123622,
+    "meanAbsoluteError": 1.3565,
+    "psnrDb": 42.631,
+    "meanChannelShift": [
+      -0.5347,
+      0.5263,
+      -0.7391
+    ],
+    "seconds": 5.17
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-960-q90.avif",
+    "original": "assets/images/author-portrait.png",
+    "width": 960,
+    "height": 1136,
+    "format": "avif",
+    "quality": 90,
+    "bytes": 199958,
+    "meanAbsoluteError": 1.1043,
+    "psnrDb": 44.522,
+    "meanChannelShift": [
+      -0.5365,
+      0.5272,
+      -0.7418
+    ],
+    "seconds": 6.25
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-960-q95.avif",
+    "original": "assets/images/author-portrait.png",
+    "width": 960,
+    "height": 1136,
+    "format": "avif",
+    "quality": 95,
+    "bytes": 315556,
+    "meanAbsoluteError": 0.9169,
+    "psnrDb": 46.117,
+    "meanChannelShift": [
+      -0.5444,
+      0.5312,
+      -0.7474
+    ],
+    "seconds": 8.24
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-960-q90.webp",
+    "original": "assets/images/author-portrait.png",
+    "width": 960,
+    "height": 1136,
+    "format": "webp",
+    "quality": 90,
+    "bytes": 135034,
+    "meanAbsoluteError": 1.5204,
+    "psnrDb": 41.427,
+    "meanChannelShift": [
+      -0.0437,
+      0.082,
+      -0.0077
+    ],
+    "seconds": 0.95
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-960-q95.webp",
+    "original": "assets/images/author-portrait.png",
+    "width": 960,
+    "height": 1136,
+    "format": "webp",
+    "quality": 95,
+    "bytes": 211808,
+    "meanAbsoluteError": 1.1618,
+    "psnrDb": 43.724,
+    "meanChannelShift": [
+      0.0185,
+      0.0478,
+      0.0619
+    ],
+    "seconds": 1.17
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-768-q80.avif",
+    "original": "assets/images/author-portrait.png",
+    "width": 768,
+    "height": 909,
+    "format": "avif",
+    "quality": 80,
+    "bytes": 84473,
+    "meanAbsoluteError": 1.4407,
+    "psnrDb": 42.101,
+    "meanChannelShift": [
+      -0.5611,
+      0.5254,
+      -0.7377
+    ],
+    "seconds": 5.6
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-768-q90.avif",
+    "original": "assets/images/author-portrait.png",
+    "width": 768,
+    "height": 909,
+    "format": "avif",
+    "quality": 90,
+    "bytes": 138740,
+    "meanAbsoluteError": 1.1498,
+    "psnrDb": 44.156,
+    "meanChannelShift": [
+      -0.5402,
+      0.5199,
+      -0.7327
+    ],
+    "seconds": 6.71
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-768-q95.avif",
+    "original": "assets/images/author-portrait.png",
+    "width": 768,
+    "height": 909,
+    "format": "avif",
+    "quality": 95,
+    "bytes": 217309,
+    "meanAbsoluteError": 0.9421,
+    "psnrDb": 45.915,
+    "meanChannelShift": [
+      -0.5486,
+      0.528,
+      -0.744
+    ],
+    "seconds": 9.26
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-768-q90.webp",
+    "original": "assets/images/author-portrait.png",
+    "width": 768,
+    "height": 909,
+    "format": "webp",
+    "quality": 90,
+    "bytes": 93110,
+    "meanAbsoluteError": 1.6186,
+    "psnrDb": 40.767,
+    "meanChannelShift": [
+      -0.02,
+      0.1046,
+      0.0185
+    ],
+    "seconds": 0.95
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-768-q95.webp",
+    "original": "assets/images/author-portrait.png",
+    "width": 768,
+    "height": 909,
+    "format": "webp",
+    "quality": 95,
+    "bytes": 147938,
+    "meanAbsoluteError": 1.2151,
+    "psnrDb": 43.145,
+    "meanChannelShift": [
+      0.0671,
+      0.0371,
+      0.1295
+    ],
+    "seconds": 0.67
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-640-q80.avif",
+    "original": "assets/images/author-portrait.png",
+    "width": 640,
+    "height": 757,
+    "format": "avif",
+    "quality": 80,
+    "bytes": 60391,
+    "meanAbsoluteError": 1.4999,
+    "psnrDb": 41.71,
+    "meanChannelShift": [
+      -0.5811,
+      0.5203,
+      -0.7448
+    ],
+    "seconds": 2.85
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-640-q90.avif",
+    "original": "assets/images/author-portrait.png",
+    "width": 640,
+    "height": 757,
+    "format": "avif",
+    "quality": 90,
+    "bytes": 99971,
+    "meanAbsoluteError": 1.2071,
+    "psnrDb": 43.71,
+    "meanChannelShift": [
+      -0.5486,
+      0.519,
+      -0.7232
+    ],
+    "seconds": 3.48
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-640-q95.avif",
+    "original": "assets/images/author-portrait.png",
+    "width": 640,
+    "height": 757,
+    "format": "avif",
+    "quality": 95,
+    "bytes": 160524,
+    "meanAbsoluteError": 0.9706,
+    "psnrDb": 45.653,
+    "meanChannelShift": [
+      -0.5571,
+      0.5217,
+      -0.7429
+    ],
+    "seconds": 4.05
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-640-q90.webp",
+    "original": "assets/images/author-portrait.png",
+    "width": 640,
+    "height": 757,
+    "format": "webp",
+    "quality": 90,
+    "bytes": 66344,
+    "meanAbsoluteError": 1.6929,
+    "psnrDb": 40.265,
+    "meanChannelShift": [
+      -0.0068,
+      0.1084,
+      0.0404
+    ],
+    "seconds": 0.35
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/author-portrait-640-q95.webp",
+    "original": "assets/images/author-portrait.png",
+    "width": 640,
+    "height": 757,
+    "format": "webp",
+    "quality": 95,
+    "bytes": 103070,
+    "meanAbsoluteError": 1.3315,
+    "psnrDb": 42.119,
+    "meanChannelShift": [
+      0.0573,
+      0.0431,
+      0.1254
+    ],
+    "seconds": 0.38
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/book-cover-480-q80.avif",
+    "original": "assets/images/book-cover.png",
+    "width": 480,
+    "height": 691,
+    "format": "avif",
+    "quality": 80,
+    "bytes": 48803,
+    "meanAbsoluteError": 1.2853,
+    "psnrDb": 41.587,
+    "meanChannelShift": [
+      -0.4226,
+      0.4479,
+      -0.4677
+    ],
+    "seconds": 1.24
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/book-cover-480-q90.avif",
+    "original": "assets/images/book-cover.png",
+    "width": 480,
+    "height": 691,
+    "format": "avif",
+    "quality": 90,
+    "bytes": 66928,
+    "meanAbsoluteError": 0.8978,
+    "psnrDb": 45.037,
+    "meanChannelShift": [
+      -0.4152,
+      0.4524,
+      -0.4695
+    ],
+    "seconds": 1.25
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/book-cover-480-q95.avif",
+    "original": "assets/images/book-cover.png",
+    "width": 480,
+    "height": 691,
+    "format": "avif",
+    "quality": 95,
+    "bytes": 87014,
+    "meanAbsoluteError": 0.7189,
+    "psnrDb": 47.283,
+    "meanChannelShift": [
+      -0.4236,
+      0.4509,
+      -0.4931
+    ],
+    "seconds": 1.67
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/book-cover-480-q90.webp",
+    "original": "assets/images/book-cover.png",
+    "width": 480,
+    "height": 691,
+    "format": "webp",
+    "quality": 90,
+    "bytes": 48066,
+    "meanAbsoluteError": 1.7735,
+    "psnrDb": 37.084,
+    "meanChannelShift": [
+      -0.0541,
+      0.227,
+      0.1104
+    ],
+    "seconds": 0.21
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/book-cover-480-q95.webp",
+    "original": "assets/images/book-cover.png",
+    "width": 480,
+    "height": 691,
+    "format": "webp",
+    "quality": 95,
+    "bytes": 68142,
+    "meanAbsoluteError": 1.4832,
+    "psnrDb": 37.864,
+    "meanChannelShift": [
+      0.0004,
+      0.1451,
+      0.1924
+    ],
+    "seconds": 0.24
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/book-cover-360-q80.avif",
+    "original": "assets/images/book-cover.png",
+    "width": 360,
+    "height": 518,
+    "format": "avif",
+    "quality": 80,
+    "bytes": 30501,
+    "meanAbsoluteError": 1.6487,
+    "psnrDb": 39.175,
+    "meanChannelShift": [
+      -0.4288,
+      0.454,
+      -0.5083
+    ],
+    "seconds": 0.93
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/book-cover-360-q90.avif",
+    "original": "assets/images/book-cover.png",
+    "width": 360,
+    "height": 518,
+    "format": "avif",
+    "quality": 90,
+    "bytes": 45410,
+    "meanAbsoluteError": 1.2945,
+    "psnrDb": 41.651,
+    "meanChannelShift": [
+      -0.412,
+      0.4469,
+      -0.5146
+    ],
+    "seconds": 1.16
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/book-cover-360-q95.avif",
+    "original": "assets/images/book-cover.png",
+    "width": 360,
+    "height": 518,
+    "format": "avif",
+    "quality": 95,
+    "bytes": 69241,
+    "meanAbsoluteError": 0.9412,
+    "psnrDb": 44.967,
+    "meanChannelShift": [
+      -0.4192,
+      0.4569,
+      -0.53
+    ],
+    "seconds": 1.31
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/book-cover-360-q90.webp",
+    "original": "assets/images/book-cover.png",
+    "width": 360,
+    "height": 518,
+    "format": "webp",
+    "quality": 90,
+    "bytes": 31108,
+    "meanAbsoluteError": 2.236,
+    "psnrDb": 34.784,
+    "meanChannelShift": [
+      -0.1228,
+      0.2257,
+      0.1769
+    ],
+    "seconds": 0.12
+  },
+  {
+    "file": "qa/artifacts/image-lab/delivery/book-cover-360-q95.webp",
+    "original": "assets/images/book-cover.png",
+    "width": 360,
+    "height": 518,
+    "format": "webp",
+    "quality": 95,
+    "bytes": 42828,
+    "meanAbsoluteError": 1.9817,
+    "psnrDb": 35.341,
+    "meanChannelShift": [
+      -0.0552,
+      0.162,
+      0.2289
+    ],
+    "seconds": 0.15
+  }
+]

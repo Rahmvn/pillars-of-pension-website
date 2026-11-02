@@ -1,0 +1,385 @@
+{
+  "baselineCommit": "0a830f274dd1872eb97e3ae34103a75f736caedd",
+  "conditions": {
+    "browser": "147.0.7727.15",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "deviceScaleFactor": 1,
+    "network": {
+      "downloadMbps": 1.6,
+      "uploadMbps": 0.75,
+      "latencyMs": 150
+    },
+    "cpuSlowdown": 4,
+    "repetitions": 3
+  },
+  "pages": [
+    {
+      "route": "/",
+      "before": {
+        "coldLcpMedianMs": 6864,
+        "warmLcpMedianMs": 612,
+        "coldResourceBytesMedian": 1257136,
+        "warmResourceBytesMedian": 1800,
+        "maximumObservedCls": 0.47393364928909953,
+        "maximumColdCls": 0,
+        "maximumWarmCls": 0.47393364928909953,
+        "lcpElements": [
+          {
+            "at": 6800,
+            "loadTime": 6759.5,
+            "renderTime": 6800,
+            "size": 255657,
+            "tag": "IMG",
+            "class": "stone-scene",
+            "url": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+            "text": ""
+          },
+          {
+            "at": 6908,
+            "loadTime": 6848.4000000003725,
+            "renderTime": 6908,
+            "size": 255657,
+            "tag": "IMG",
+            "class": "stone-scene",
+            "url": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+            "text": ""
+          },
+          {
+            "at": 6864,
+            "loadTime": 6816.699999999255,
+            "renderTime": 6864,
+            "size": 255657,
+            "tag": "IMG",
+            "class": "stone-scene",
+            "url": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+            "text": ""
+          }
+        ]
+      },
+      "after": {
+        "coldLcpMedianMs": 1900,
+        "warmLcpMedianMs": 536,
+        "coldResourceBytesMedian": 278748,
+        "warmResourceBytesMedian": 1800,
+        "maximumObservedCls": 0.47393364928909953,
+        "maximumColdCls": 0,
+        "maximumWarmCls": 0.47393364928909953,
+        "lcpElements": [
+          {
+            "at": 1916,
+            "loadTime": 1816.5999999996275,
+            "renderTime": 1916,
+            "size": 255657,
+            "tag": "IMG",
+            "class": "stone-scene",
+            "url": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+            "text": ""
+          },
+          {
+            "at": 1884,
+            "loadTime": 1799.6000000014901,
+            "renderTime": 1884,
+            "size": 255657,
+            "tag": "IMG",
+            "class": "stone-scene",
+            "url": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+            "text": ""
+          },
+          {
+            "at": 1900,
+            "loadTime": 1798.199999999255,
+            "renderTime": 1900,
+            "size": 255657,
+            "tag": "IMG",
+            "class": "stone-scene",
+            "url": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+            "text": ""
+          }
+        ]
+      },
+      "lcpReductionPercent": 72.32,
+      "bytesReductionPercent": 77.83
+    },
+    {
+      "route": "/book.html",
+      "before": {
+        "coldLcpMedianMs": 1228,
+        "warmLcpMedianMs": 704,
+        "coldResourceBytesMedian": 1178956,
+        "warmResourceBytesMedian": 1200,
+        "maximumObservedCls": 0.47393364928909953,
+        "maximumColdCls": 0,
+        "maximumWarmCls": 0.47393364928909953,
+        "lcpElements": [
+          {
+            "at": 1320,
+            "loadTime": 0,
+            "renderTime": 1320,
+            "size": 74556,
+            "tag": "P",
+            "class": "",
+            "url": "",
+            "text": "It explores the relationship between public and private pension arrangements, mandatory and voluntar"
+          },
+          {
+            "at": 1228,
+            "loadTime": 0,
+            "renderTime": 1228,
+            "size": 74556,
+            "tag": "P",
+            "class": "",
+            "url": "",
+            "text": "It explores the relationship between public and private pension arrangements, mandatory and voluntar"
+          },
+          {
+            "at": 1212,
+            "loadTime": 0,
+            "renderTime": 1212,
+            "size": 74556,
+            "tag": "P",
+            "class": "",
+            "url": "",
+            "text": "It explores the relationship between public and private pension arrangements, mandatory and voluntar"
+          }
+        ]
+      },
+      "after": {
+        "coldLcpMedianMs": 1140,
+        "warmLcpMedianMs": 528,
+        "coldResourceBytesMedian": 200568,
+        "warmResourceBytesMedian": 1200,
+        "maximumObservedCls": 0.47393364928909953,
+        "maximumColdCls": 0,
+        "maximumWarmCls": 0.47393364928909953,
+        "lcpElements": [
+          {
+            "at": 1140,
+            "loadTime": 0,
+            "renderTime": 1140,
+            "size": 74556,
+            "tag": "P",
+            "class": "",
+            "url": "",
+            "text": "It explores the relationship between public and private pension arrangements, mandatory and voluntar"
+          },
+          {
+            "at": 912,
+            "loadTime": 0,
+            "renderTime": 912,
+            "size": 74556,
+            "tag": "P",
+            "class": "",
+            "url": "",
+            "text": "It explores the relationship between public and private pension arrangements, mandatory and voluntar"
+          },
+          {
+            "at": 1140,
+            "loadTime": 0,
+            "renderTime": 1140,
+            "size": 74556,
+            "tag": "P",
+            "class": "",
+            "url": "",
+            "text": "It explores the relationship between public and private pension arrangements, mandatory and voluntar"
+          }
+        ]
+      },
+      "lcpReductionPercent": 7.17,
+      "bytesReductionPercent": 82.99
+    },
+    {
+      "route": "/author.html",
+      "before": {
+        "coldLcpMedianMs": 12256,
+        "warmLcpMedianMs": 780,
+        "coldResourceBytesMedian": 2346622,
+        "warmResourceBytesMedian": 1500,
+        "maximumObservedCls": 0.47393364928909953,
+        "maximumColdCls": 0,
+        "maximumWarmCls": 0.47393364928909953,
+        "lcpElements": [
+          {
+            "at": 12232,
+            "loadTime": 12185.700000001118,
+            "renderTime": 12232,
+            "size": 185250,
+            "tag": "IMG",
+            "class": "",
+            "url": "http://127.0.0.1:8082/sites/baseline/assets/images/author-portrait.webp",
+            "text": ""
+          },
+          {
+            "at": 12260,
+            "loadTime": 12205.10000000149,
+            "renderTime": 12260,
+            "size": 185250,
+            "tag": "IMG",
+            "class": "",
+            "url": "http://127.0.0.1:8082/sites/baseline/assets/images/author-portrait.webp",
+            "text": ""
+          },
+          {
+            "at": 12256,
+            "loadTime": 12195.300000000745,
+            "renderTime": 12256,
+            "size": 185250,
+            "tag": "IMG",
+            "class": "",
+            "url": "http://127.0.0.1:8082/sites/baseline/assets/images/author-portrait.webp",
+            "text": ""
+          }
+        ]
+      },
+      "after": {
+        "coldLcpMedianMs": 2704,
+        "warmLcpMedianMs": 656,
+        "coldResourceBytesMedian": 440927,
+        "warmResourceBytesMedian": 1500,
+        "maximumObservedCls": 0.47393364928909953,
+        "maximumColdCls": 0,
+        "maximumWarmCls": 0.47393364928909953,
+        "lcpElements": [
+          {
+            "at": 2700,
+            "loadTime": 2622.0999999996275,
+            "renderTime": 2700,
+            "size": 185250,
+            "tag": "IMG",
+            "class": "",
+            "url": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+            "text": ""
+          },
+          {
+            "at": 2732,
+            "loadTime": 2638.5,
+            "renderTime": 2732,
+            "size": 185250,
+            "tag": "IMG",
+            "class": "",
+            "url": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+            "text": ""
+          },
+          {
+            "at": 2704,
+            "loadTime": 2627.4000000003725,
+            "renderTime": 2704,
+            "size": 185250,
+            "tag": "IMG",
+            "class": "",
+            "url": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+            "text": ""
+          }
+        ]
+      },
+      "lcpReductionPercent": 77.94,
+      "bytesReductionPercent": 81.21
+    },
+    {
+      "route": "/launch.html",
+      "before": {
+        "coldLcpMedianMs": 1224,
+        "warmLcpMedianMs": 640,
+        "coldResourceBytesMedian": 1178956,
+        "warmResourceBytesMedian": 1200,
+        "maximumObservedCls": 0.47393364928909953,
+        "maximumColdCls": 0,
+        "maximumWarmCls": 0.47393364928909953,
+        "lcpElements": [
+          {
+            "at": 1148,
+            "loadTime": 0,
+            "renderTime": 1148,
+            "size": 35154,
+            "tag": "SPAN",
+            "class": "event-day",
+            "url": "",
+            "text": "09"
+          },
+          {
+            "at": 1224,
+            "loadTime": 0,
+            "renderTime": 1224,
+            "size": 35154,
+            "tag": "SPAN",
+            "class": "event-day",
+            "url": "",
+            "text": "09"
+          },
+          {
+            "at": 1296,
+            "loadTime": 0,
+            "renderTime": 1296,
+            "size": 35154,
+            "tag": "SPAN",
+            "class": "event-day",
+            "url": "",
+            "text": "09"
+          }
+        ]
+      },
+      "after": {
+        "coldLcpMedianMs": 1044,
+        "warmLcpMedianMs": 556,
+        "coldResourceBytesMedian": 200568,
+        "warmResourceBytesMedian": 1200,
+        "maximumObservedCls": 0.47393364928909953,
+        "maximumColdCls": 0,
+        "maximumWarmCls": 0.47393364928909953,
+        "lcpElements": [
+          {
+            "at": 1040,
+            "loadTime": 0,
+            "renderTime": 1040,
+            "size": 35154,
+            "tag": "SPAN",
+            "class": "event-day",
+            "url": "",
+            "text": "09"
+          },
+          {
+            "at": 1100,
+            "loadTime": 0,
+            "renderTime": 1100,
+            "size": 35154,
+            "tag": "SPAN",
+            "class": "event-day",
+            "url": "",
+            "text": "09"
+          },
+          {
+            "at": 1044,
+            "loadTime": 0,
+            "renderTime": 1044,
+            "size": 35154,
+            "tag": "SPAN",
+            "class": "event-day",
+            "url": "",
+            "text": "09"
+          }
+        ]
+      },
+      "lcpReductionPercent": 14.71,
+      "bytesReductionPercent": 82.99
+    }
+  ],
+  "preservedSources": {
+    "navigation.js": "cff99cee5fdad4c09dfade35b6c696fce0842f0ab47a2fedaaddac99af9f7f6c",
+    "assets/fonts/geist-latin.woff2": "19f9c92546aa300c312235e3125af1b81394d8db9a4bc4a425cd5b641d2d54e1",
+    "assets/fonts/geist-medium.ttf": "a8eefb873ba9c9020665f8a98302697ce1f3b79ab2deef6ee508c0ca6a82e876",
+    "assets/fonts/geist-regular.ttf": "ccce59465ae5c61930ada5453834f60500fbd95084d85db63e0e65fad0125455",
+    "assets/fonts/OFL.txt": "930853ee1daa68554d9e35c8a9175affb74f699fad9a5da6ee5ebe76379d9137",
+    "assets/images/author-portrait.png": "30a49609e31853e8bcd999a3aad17f7e3249073427368bf957301f3fd4ef8090",
+    "assets/images/author-portrait.webp": "2947986a0378e566291d16298af3f1ea46b44b9481c20fa4b89356fc42fa072b",
+    "assets/images/book-contact-shadow.svg": "251c113f868cfd2253046abf15365ba480fcc687c2a93659620afe1df0fb836a",
+    "assets/images/book-cover.png": "842fe5bb4ee03aa69bc3d54f6cd78190b2c1e687ce2266e0c829f24f556f5010",
+    "assets/images/interior.png": "1f47090172acfba9c5b39fda2216fba79427cab13427ad20e8f3ecb60f654060",
+    "assets/images/interior.webp": "36585513a5ed906fd75d0d021cfca9fe7908ea6e866f95d10572ddbf585ea401"
+  },
+  "visualCases": 72,
+  "allComparedLayoutsAndCopyUnchanged": true,
+  "worstPageMeanAbsoluteError": 0.5353,
+  "minimumPageLocalSsim": 0.996525
+}

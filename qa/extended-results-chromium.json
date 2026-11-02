@@ -540,29 +540,29 @@
   "performance": [
     {
       "route": "/",
-      "transferBytes": 1257136,
-      "loadMs": 43.700000000186265,
+      "transferBytes": 278748,
+      "loadMs": 69.79999999888241,
       "resources": 6,
       "externalRequests": 0
     },
     {
       "route": "/book.html",
-      "transferBytes": 1178956,
-      "loadMs": 68.29999999981374,
+      "transferBytes": 200568,
+      "loadMs": 64.79999999888241,
       "resources": 4,
       "externalRequests": 0
     },
     {
       "route": "/author.html",
-      "transferBytes": 2346622,
-      "loadMs": 49,
+      "transferBytes": 440927,
+      "loadMs": 68.5,
       "resources": 5,
       "externalRequests": 0
     },
     {
       "route": "/launch.html",
-      "transferBytes": 1178956,
-      "loadMs": 76.3999999994412,
+      "transferBytes": 200568,
+      "loadMs": 68.19999999925494,
       "resources": 4,
       "externalRequests": 0
     }

@@ -2,28 +2,28 @@
   "outputFiles": [
     {
       "file": "index.html",
-      "bytes": 3890,
-      "sha256": "0b5d74d4dc8498e3d35fa9cc0f04670d0e8a47d64517a5e174acabde3b7cb205"
+      "bytes": 4621,
+      "sha256": "68a1e69fbb16ff6cb9e69a01ef15eb6cd4427d8df2f53a837660cf265a8289d8"
     },
     {
       "file": "book.html",
-      "bytes": 3013,
-      "sha256": "5b4e8f47ab884f168786b0a7fc139735a200c615d24584609ff4282d81107fb7"
+      "bytes": 3245,
+      "sha256": "0dc75cef9fdf632086e549d17f504754be9c1ef20da32b6e4ecc98300f14bcbd"
     },
     {
       "file": "author.html",
-      "bytes": 2901,
-      "sha256": "6a17341617a71b90da95099dabc3346103adfc4a42374806f54cb51b7743aa4e"
+      "bytes": 3482,
+      "sha256": "6e7f377b100ce5b696e0a6d372ed56b99a75986c33f8646b7ddeeb0235c45f5f"
     },
     {
       "file": "launch.html",
-      "bytes": 2608,
-      "sha256": "67f08acaf2b980cdb432261a84c31acf52087bbe99a26ce0df802c49bb4608fe"
+      "bytes": 2840,
+      "sha256": "9d3a178dcaebe03547d6ded8ced13c375ecc9a3a3ed9ca4e2e80e6c6595574c5"
     },
     {
       "file": "styles.css",
-      "bytes": 23053,
-      "sha256": "8c8e89121f4ff6fe0617cb45ba3e243894cf95d16bd4f0e347ade6d04b90d4d6"
+      "bytes": 23094,
+      "sha256": "7a6628732820ba1540f74d5285f4f5ab7aa15ecf77189d595f89061394963937"
     },
     {
       "file": "navigation.js",
@@ -59,13 +59,29 @@
       "file": "assets/fonts/OFL.txt",
       "bytes": 4368,
       "sha256": "930853ee1daa68554d9e35c8a9175affb74f699fad9a5da6ee5ebe76379d9137"
+    },
+    {
+      "file": "assets/images/delivery/interior-1536.avif",
+      "bytes": 143867,
+      "sha256": "e756e6d25423b81d7a072dc994cad2afee7adc059641e193b68aabd17bd62295"
+    },
+    {
+      "file": "assets/images/delivery/interior-1536.webp",
+      "bytes": 158172,
+      "sha256": "54955f8e22ef4e451b83e38e6500b2099f85105d5fee7d06a7b12f2eed6973ab"
+    },
+    {
+      "file": "assets/images/delivery/author-1153.avif",
+      "bytes": 240059,
+      "sha256": "22b9600852f96acfdaeadb03825e8c74db398fc6f215efaae740820c4bd2faa1"
+    },
+    {
+      "file": "assets/images/delivery/author-1153.webp",
+      "bytes": 292024,
+      "sha256": "6e560040791e45c5b3575fa0ccccd7b0030727e9785fc03132d6368e33dfc0f1"
     }
   ],
   "reviewedSourcesUnchanged": [
-    "author.html",
-    "book.html",
-    "index.html",
-    "launch.html",
     "navigation.js",
     "assets/fonts/geist-latin.woff2",
     "assets/fonts/geist-medium.ttf",
@@ -158,6 +174,30 @@
       "contentType": "text/plain; charset=utf-8"
     },
     {
+      "route": "/assets/images/delivery/interior-1536.avif",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "image/avif"
+    },
+    {
+      "route": "/assets/images/delivery/interior-1536.webp",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "image/webp"
+    },
+    {
+      "route": "/assets/images/delivery/author-1153.avif",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "image/avif"
+    },
+    {
+      "route": "/assets/images/delivery/author-1153.webp",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "image/webp"
+    },
+    {
       "route": "/qa/verify.cjs",
       "status": 404
     },
@@ -208,6 +248,10 @@
     "assets/images/book-contact-shadow.svg",
     "assets/fonts/geist-latin.woff2",
     "assets/fonts/OFL.txt",
+    "assets/images/delivery/interior-1536.avif",
+    "assets/images/delivery/interior-1536.webp",
+    "assets/images/delivery/author-1153.avif",
+    "assets/images/delivery/author-1153.webp",
     "vercel.json",
     "scripts/build-static.cjs",
     "scripts/static-files.json"

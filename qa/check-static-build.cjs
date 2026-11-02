@@ -18,16 +18,17 @@ const walk = directory => fs.readdirSync(directory, { withFileTypes: true }).fla
     results.outputFiles.push({ file, bytes: fs.statSync(file).size, sha256: hash(file) });
   }
   for (const [file, expected] of Object.entries(require('./approved-source-hashes.json'))) {
-    if (file === 'styles.css') continue; // The deliberately changed focus rules are reviewed separately.
+    if (file === 'styles.css' || file.endsWith('.html')) continue; // Responsive image markup is checked against baseline text/geometry in the image visual report.
     if (['assets/fonts/geist-regular.ttf', 'assets/fonts/geist-medium.ttf'].includes(file) && !fs.existsSync(file)) continue; // Optional original downloads, intentionally not in Git/output.
     assert.equal(hash(file), expected, `${file}: reviewed copy, script, and assets must remain unchanged`);
     results.reviewedSourcesUnchanged.push(file);
   }
   for (const file of ['index.html', 'book.html', 'author.html', 'launch.html', 'styles.css']) {
     const content = fs.readFileSync(file, 'utf8');
-    const references = file.endsWith('.css') ? [...content.matchAll(/url\(["']?([^"')]+)["']?\)/g)].map(m => m[1]) : [...content.matchAll(/(?:src|href)="([^"]+)"/g)].map(m => m[1]);
+    const references = file.endsWith('.css') ? [...content.matchAll(/url\(["']?([^"')]+)["']?\)/g)].map(m => m[1]) : [...content.matchAll(/(?:src|href|srcset)="([^"]+)"/g)].map(m => m[1]);
     for (const reference of references) {
       if (reference.startsWith('#') || reference === './') continue;
+      if (reference === 'data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=') continue; // Only used in CSS-hidden responsive slots, not a design replacement.
       assert(files.includes(reference), `${file} references a missing/unpackaged resource: ${reference}`);
     }
   }

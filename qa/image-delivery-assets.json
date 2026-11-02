@@ -1,0 +1,68 @@
+{
+  "baselineCommit": "0a830f274dd1872eb97e3ae34103a75f736caedd",
+  "pillowVersion": "12.2.0",
+  "avifVersion": "1.4.1",
+  "webpVersion": "1.6.0",
+  "accepted": [
+    {
+      "source": "assets/images/interior.png",
+      "sourceSha256": "1f47090172acfba9c5b39fda2216fba79427cab13427ad20e8f3ecb60f654060",
+      "delivery": "assets/images/delivery/interior-1536.avif",
+      "deliverySha256": "e756e6d25423b81d7a072dc994cad2afee7adc059641e193b68aabd17bd62295",
+      "bytes": 143867,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 90,
+      "format": "avif",
+      "colorProfile": "sRGB",
+      "chroma": "4:4:4 full range"
+    },
+    {
+      "source": "assets/images/interior.png",
+      "sourceSha256": "1f47090172acfba9c5b39fda2216fba79427cab13427ad20e8f3ecb60f654060",
+      "delivery": "assets/images/delivery/interior-1536.webp",
+      "deliverySha256": "54955f8e22ef4e451b83e38e6500b2099f85105d5fee7d06a7b12f2eed6973ab",
+      "bytes": 158172,
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "quality": 95,
+      "format": "webp",
+      "colorProfile": "sRGB",
+      "chroma": "WebP codec default"
+    },
+    {
+      "source": "assets/images/author-portrait.png",
+      "sourceSha256": "30a49609e31853e8bcd999a3aad17f7e3249073427368bf957301f3fd4ef8090",
+      "delivery": "assets/images/delivery/author-1153.avif",
+      "deliverySha256": "22b9600852f96acfdaeadb03825e8c74db398fc6f215efaae740820c4bd2faa1",
+      "bytes": 240059,
+      "dimensions": [
+        1153,
+        1364
+      ],
+      "quality": 90,
+      "format": "avif",
+      "colorProfile": "sRGB",
+      "chroma": "4:4:4 full range"
+    },
+    {
+      "source": "assets/images/author-portrait.png",
+      "sourceSha256": "30a49609e31853e8bcd999a3aad17f7e3249073427368bf957301f3fd4ef8090",
+      "delivery": "assets/images/delivery/author-1153.webp",
+      "deliverySha256": "6e560040791e45c5b3575fa0ccccd7b0030727e9785fc03132d6368e33dfc0f1",
+      "bytes": 292024,
+      "dimensions": [
+        1153,
+        1364
+      ],
+      "quality": 95,
+      "format": "webp",
+      "colorProfile": "sRGB",
+      "chroma": "WebP codec default"
+    }
+  ]
+}

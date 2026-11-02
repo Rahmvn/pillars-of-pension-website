@@ -275,29 +275,29 @@
   "performance": [
     {
       "route": "/",
-      "transferBytes": 1257445,
-      "loadMs": 115,
+      "transferBytes": 279057,
+      "loadMs": 261,
       "resources": 7,
       "externalRequests": 0
     },
     {
       "route": "/book.html",
-      "transferBytes": 1179265,
-      "loadMs": 145,
+      "transferBytes": 200877,
+      "loadMs": 223,
       "resources": 5,
       "externalRequests": 0
     },
     {
       "route": "/author.html",
-      "transferBytes": 2346931,
-      "loadMs": 149,
+      "transferBytes": 441236,
+      "loadMs": 279,
       "resources": 6,
       "externalRequests": 0
     },
     {
       "route": "/launch.html",
-      "transferBytes": 1179265,
-      "loadMs": 173,
+      "transferBytes": 200877,
+      "loadMs": 259,
       "resources": 5,
       "externalRequests": 0
     }

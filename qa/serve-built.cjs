@@ -6,7 +6,7 @@ const crypto = require('node:crypto');
 const files = require('../scripts/static-files.json');
 const config = require('../vercel.json');
 const root = path.resolve(__dirname, '../dist');
-const types = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.webp': 'image/webp', '.png': 'image/png', '.svg': 'image/svg+xml', '.woff2': 'font/woff2', '.txt': 'text/plain; charset=utf-8' };
+const types = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.avif': 'image/avif', '.webp': 'image/webp', '.png': 'image/png', '.svg': 'image/svg+xml', '.woff2': 'font/woff2', '.txt': 'text/plain; charset=utf-8' };
 const content = new Map(files.map(file => {
   const body = fs.readFileSync(path.join(root, file));
   const etag = '"' + crypto.createHash('sha256').update(body).digest('hex') + '"';

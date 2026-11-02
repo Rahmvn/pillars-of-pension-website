@@ -1,0 +1,909 @@
+{
+  "browser": "147.0.7727.15",
+  "site": "http://127.0.0.1:8082/sites/baseline",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "deviceScaleFactor": 1,
+  "network": {
+    "downloadMbps": 1.6,
+    "uploadMbps": 0.75,
+    "latencyMs": 150
+  },
+  "cpuSlowdown": 4,
+  "repetitions": 1,
+  "runs": [
+    {
+      "run": 1,
+      "route": "/",
+      "state": "cold",
+      "lcp": 6820,
+      "cls": 0,
+      "lcpEntries": [
+        {
+          "at": 1376,
+          "loadTime": 0,
+          "renderTime": 1376,
+          "size": 30624,
+          "tag": "P",
+          "class": "home-introduction",
+          "url": "",
+          "text": "Explore the institutions, benefits, and reforms shaping Nigeria’s pension system."
+        },
+        {
+          "at": 1528,
+          "loadTime": 1497.7999999988824,
+          "renderTime": 1528,
+          "size": 104760,
+          "tag": "IMG",
+          "class": "book-cover",
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/book-cover.png",
+          "text": ""
+        },
+        {
+          "at": 6820,
+          "loadTime": 6775.9000000003725,
+          "renderTime": 6820,
+          "size": 255657,
+          "tag": "IMG",
+          "class": "stone-scene",
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "text": ""
+        }
+      ],
+      "loadMs": 6782.4000000003725,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/fonts/geist-latin.woff2",
+          "startMs": 252.09999999962747,
+          "requestMs": 256.19999999925494,
+          "responseStartMs": 259.09999999962747,
+          "endMs": 991.7999999988824,
+          "transferBytes": 29700,
+          "encodedBytes": 29400,
+          "initiator": "link",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Font"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/styles.css",
+          "startMs": 256.09999999962747,
+          "requestMs": 258.2999999988824,
+          "responseStartMs": 269.19999999925494,
+          "endMs": 904.5,
+          "transferBytes": 23353,
+          "encodedBytes": 23053,
+          "initiator": "link",
+          "initialPriority": "VeryHigh",
+          "priorityChanges": [],
+          "type": "Stylesheet"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/navigation.js",
+          "startMs": 258.19999999925494,
+          "requestMs": 296.90000000037253,
+          "responseStartMs": 304.09999999962747,
+          "endMs": 554.0999999996275,
+          "transferBytes": 3307,
+          "encodedBytes": 3007,
+          "initiator": "script",
+          "initialPriority": "Low",
+          "priorityChanges": [],
+          "type": "Script"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "startMs": 259.19999999925494,
+          "requestMs": 266.09999999962747,
+          "responseStartMs": 287.2999999988824,
+          "endMs": 6768.9000000003725,
+          "transferBytes": 1122596,
+          "encodedBytes": 1122296,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/book-contact-shadow.svg",
+          "startMs": 259.59999999962747,
+          "requestMs": 266.69999999925494,
+          "responseStartMs": 298.90000000037253,
+          "endMs": 457.40000000037253,
+          "transferBytes": 1022,
+          "encodedBytes": 722,
+          "initiator": "img",
+          "initialPriority": "Medium",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/book-cover.png",
+          "startMs": 259.90000000037253,
+          "requestMs": 266.40000000037253,
+          "responseStartMs": 291.2999999988824,
+          "endMs": 1491.699999999255,
+          "transferBytes": 77158,
+          "encodedBytes": 76858,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8082/favicon.ico",
+          "startMs": 6793.5,
+          "requestMs": 6796.699999999255,
+          "responseStartMs": 6798.799999998882,
+          "endMs": 6967.199999999255,
+          "transferBytes": 309,
+          "encodedBytes": 9,
+          "initiator": "other",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Other"
+        }
+      ],
+      "images": [
+        {
+          "class": "scene",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "priority": "high",
+          "loading": "auto"
+        },
+        {
+          "class": "stone-scene",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "priority": "auto",
+          "loading": "auto"
+        },
+        {
+          "class": "book-contact-shadow",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/book-contact-shadow.svg",
+          "source": "assets/images/book-contact-shadow.svg",
+          "naturalWidth": 433,
+          "naturalHeight": 58,
+          "priority": "auto",
+          "loading": "auto"
+        },
+        {
+          "class": "book-cover",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/book-cover.png",
+          "source": "assets/images/book-cover.png",
+          "naturalWidth": 480,
+          "naturalHeight": 691,
+          "priority": "high",
+          "loading": "auto"
+        }
+      ],
+      "transferBytes": 1257445
+    },
+    {
+      "run": 1,
+      "route": "/",
+      "state": "warm",
+      "lcp": 596,
+      "cls": 0.47393364928909953,
+      "lcpEntries": [
+        {
+          "at": 596,
+          "loadTime": 450.69999999925494,
+          "renderTime": 596,
+          "size": 92247,
+          "tag": "IMG",
+          "class": "stone-scene",
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "text": ""
+        }
+      ],
+      "loadMs": 530.2999999988824,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/fonts/geist-latin.woff2",
+          "startMs": 243,
+          "requestMs": 246.19999999925494,
+          "responseStartMs": 250.09999999962747,
+          "endMs": 428.2999999988824,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "link",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Font"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/styles.css",
+          "startMs": 248.09999999962747,
+          "requestMs": 250.2999999988824,
+          "responseStartMs": 253,
+          "endMs": 428.8999999985099,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "link",
+          "initialPriority": "VeryHigh",
+          "priorityChanges": [],
+          "type": "Stylesheet"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/navigation.js",
+          "startMs": 251.09999999962747,
+          "requestMs": 275.59999999962747,
+          "responseStartMs": 277.3999999985099,
+          "endMs": 460.7999999988824,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "script",
+          "initialPriority": "Low",
+          "priorityChanges": [],
+          "type": "Script"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "startMs": 253.7999999988824,
+          "requestMs": 255.89999999850988,
+          "responseStartMs": 268.19999999925494,
+          "endMs": 429.59999999962747,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/book-contact-shadow.svg",
+          "startMs": 256.7999999988824,
+          "requestMs": 259,
+          "responseStartMs": 271.19999999925494,
+          "endMs": 440.3999999985099,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "img",
+          "initialPriority": "Medium",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/book-cover.png",
+          "startMs": 259.7999999988824,
+          "requestMs": 262.09999999962747,
+          "responseStartMs": 274,
+          "endMs": 443.8999999985099,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        }
+      ],
+      "images": [
+        {
+          "class": "scene",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "priority": "high",
+          "loading": "auto"
+        },
+        {
+          "class": "stone-scene",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "priority": "auto",
+          "loading": "auto"
+        },
+        {
+          "class": "book-contact-shadow",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/book-contact-shadow.svg",
+          "source": "assets/images/book-contact-shadow.svg",
+          "naturalWidth": 433,
+          "naturalHeight": 58,
+          "priority": "auto",
+          "loading": "auto"
+        },
+        {
+          "class": "book-cover",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/book-cover.png",
+          "source": "assets/images/book-cover.png",
+          "naturalWidth": 480,
+          "naturalHeight": 691,
+          "priority": "high",
+          "loading": "auto"
+        }
+      ],
+      "transferBytes": 1800
+    },
+    {
+      "run": 1,
+      "route": "/author.html",
+      "state": "cold",
+      "lcp": 12240,
+      "cls": 0,
+      "lcpEntries": [
+        {
+          "at": 1168,
+          "loadTime": 0,
+          "renderTime": 1168,
+          "size": 19140,
+          "tag": "P",
+          "class": "reading-lead",
+          "url": "",
+          "text": "His work brings together academic research and professional practice in accounting, finance and pens"
+        },
+        {
+          "at": 12240,
+          "loadTime": 12212.699999999255,
+          "renderTime": 12240,
+          "size": 185250,
+          "tag": "IMG",
+          "class": "",
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/author-portrait.webp",
+          "text": ""
+        }
+      ],
+      "loadMs": 12220.699999999255,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/fonts/geist-latin.woff2",
+          "startMs": 235.5,
+          "requestMs": 237.30000000074506,
+          "responseStartMs": 240.30000000074506,
+          "endMs": 983,
+          "transferBytes": 29700,
+          "encodedBytes": 29400,
+          "initiator": "link",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Font"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/styles.css",
+          "startMs": 236.30000000074506,
+          "requestMs": 240.5,
+          "responseStartMs": 245.40000000037253,
+          "endMs": 899.5,
+          "transferBytes": 23353,
+          "encodedBytes": 23053,
+          "initiator": "link",
+          "initialPriority": "VeryHigh",
+          "priorityChanges": [],
+          "type": "Stylesheet"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/navigation.js",
+          "startMs": 237.5,
+          "requestMs": 245.5,
+          "responseStartMs": 262.59999999962747,
+          "endMs": 517.9000000003725,
+          "transferBytes": 3307,
+          "encodedBytes": 3007,
+          "initiator": "script",
+          "initialPriority": "Low",
+          "priorityChanges": [],
+          "type": "Script"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "startMs": 237.80000000074506,
+          "requestMs": 240.90000000037253,
+          "responseStartMs": 253.69999999925494,
+          "endMs": 11957.400000000373,
+          "transferBytes": 1122596,
+          "encodedBytes": 1122296,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/author-portrait.webp",
+          "startMs": 238.09999999962747,
+          "requestMs": 243.40000000037253,
+          "responseStartMs": 261.19999999925494,
+          "endMs": 12204.099999999627,
+          "transferBytes": 1167666,
+          "encodedBytes": 1167366,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        }
+      ],
+      "images": [
+        {
+          "class": "scene",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "priority": "high",
+          "loading": "auto"
+        },
+        {
+          "class": "",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/author-portrait.webp",
+          "source": "assets/images/author-portrait.webp",
+          "naturalWidth": 1153,
+          "naturalHeight": 1364,
+          "priority": "high",
+          "loading": "auto"
+        }
+      ],
+      "transferBytes": 2346622
+    },
+    {
+      "run": 1,
+      "route": "/author.html",
+      "state": "warm",
+      "lcp": 660,
+      "cls": 0.47393364928909953,
+      "lcpEntries": [
+        {
+          "at": 592,
+          "loadTime": 0,
+          "renderTime": 592,
+          "size": 10535,
+          "tag": "H1",
+          "class": "page-title",
+          "url": "",
+          "text": "Saheed Adekunle Imran"
+        },
+        {
+          "at": 660,
+          "loadTime": 486.09999999962747,
+          "renderTime": 660,
+          "size": 54210,
+          "tag": "IMG",
+          "class": "",
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/author-portrait.webp",
+          "text": ""
+        }
+      ],
+      "loadMs": 516.5,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/fonts/geist-latin.woff2",
+          "startMs": 239.19999999925494,
+          "requestMs": 242.30000000074506,
+          "responseStartMs": 244.59999999962747,
+          "endMs": 421.59999999962747,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "link",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Font"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/styles.css",
+          "startMs": 245.80000000074506,
+          "requestMs": 247.5,
+          "responseStartMs": 249.09999999962747,
+          "endMs": 422,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "link",
+          "initialPriority": "VeryHigh",
+          "priorityChanges": [],
+          "type": "Stylesheet"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/navigation.js",
+          "startMs": 247.69999999925494,
+          "requestMs": 269.19999999925494,
+          "responseStartMs": 277.69999999925494,
+          "endMs": 452.30000000074506,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "script",
+          "initialPriority": "Low",
+          "priorityChanges": [],
+          "type": "Script"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "startMs": 250.19999999925494,
+          "requestMs": 252.30000000074506,
+          "responseStartMs": 262.5,
+          "endMs": 437.30000000074506,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/author-portrait.webp",
+          "startMs": 253.69999999925494,
+          "requestMs": 255.90000000037253,
+          "responseStartMs": 274.40000000037253,
+          "endMs": 437.69999999925494,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        }
+      ],
+      "images": [
+        {
+          "class": "scene",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "priority": "high",
+          "loading": "auto"
+        },
+        {
+          "class": "",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/author-portrait.webp",
+          "source": "assets/images/author-portrait.webp",
+          "naturalWidth": 1153,
+          "naturalHeight": 1364,
+          "priority": "high",
+          "loading": "auto"
+        }
+      ],
+      "transferBytes": 1500
+    },
+    {
+      "run": 1,
+      "route": "/book.html",
+      "state": "cold",
+      "lcp": 1040,
+      "cls": 0,
+      "lcpEntries": [
+        {
+          "at": 1040,
+          "loadTime": 0,
+          "renderTime": 1040,
+          "size": 74556,
+          "tag": "P",
+          "class": "",
+          "url": "",
+          "text": "It explores the relationship between public and private pension arrangements, mandatory and voluntar"
+        }
+      ],
+      "loadMs": 6357.800000000745,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/fonts/geist-latin.woff2",
+          "startMs": 231.30000000074506,
+          "requestMs": 234.40000000037253,
+          "responseStartMs": 236.2000000011176,
+          "endMs": 816.1000000014901,
+          "transferBytes": 29700,
+          "encodedBytes": 29400,
+          "initiator": "link",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Font"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/styles.css",
+          "startMs": 235.80000000074506,
+          "requestMs": 237.60000000149012,
+          "responseStartMs": 239.30000000074506,
+          "endMs": 771.9000000003725,
+          "transferBytes": 23353,
+          "encodedBytes": 23053,
+          "initiator": "link",
+          "initialPriority": "VeryHigh",
+          "priorityChanges": [],
+          "type": "Stylesheet"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/navigation.js",
+          "startMs": 238.10000000149012,
+          "requestMs": 260.2000000011176,
+          "responseStartMs": 261.80000000074506,
+          "endMs": 488.7000000011176,
+          "transferBytes": 3307,
+          "encodedBytes": 3007,
+          "initiator": "script",
+          "initialPriority": "Low",
+          "priorityChanges": [],
+          "type": "Script"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "startMs": 240.7000000011176,
+          "requestMs": 242.7000000011176,
+          "responseStartMs": 250.2000000011176,
+          "endMs": 6343.5,
+          "transferBytes": 1122596,
+          "encodedBytes": 1122296,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        }
+      ],
+      "images": [
+        {
+          "class": "scene",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "priority": "high",
+          "loading": "auto"
+        }
+      ],
+      "transferBytes": 1178956
+    },
+    {
+      "run": 1,
+      "route": "/book.html",
+      "state": "warm",
+      "lcp": 544,
+      "cls": 0.47393364928909953,
+      "lcpEntries": [
+        {
+          "at": 544,
+          "loadTime": 0,
+          "renderTime": 544,
+          "size": 35952,
+          "tag": "P",
+          "class": "reading-lead",
+          "url": "",
+          "text": "This publication examines the evolution of pension administration, from international frameworks to "
+        }
+      ],
+      "loadMs": 500.7999999988824,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/fonts/geist-latin.woff2",
+          "startMs": 217.89999999850988,
+          "requestMs": 221.69999999925494,
+          "responseStartMs": 223.7999999988824,
+          "endMs": 403.7999999988824,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "link",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Font"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/styles.css",
+          "startMs": 222.59999999962747,
+          "requestMs": 224.69999999925494,
+          "responseStartMs": 226.2999999988824,
+          "endMs": 404.19999999925494,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "link",
+          "initialPriority": "VeryHigh",
+          "priorityChanges": [],
+          "type": "Stylesheet"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/navigation.js",
+          "startMs": 225.5,
+          "requestMs": 240.5,
+          "responseStartMs": 247.19999999925494,
+          "endMs": 419.3999999985099,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "script",
+          "initialPriority": "Low",
+          "priorityChanges": [],
+          "type": "Script"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "startMs": 228.89999999850988,
+          "requestMs": 231.39999999850988,
+          "responseStartMs": 244,
+          "endMs": 419,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        }
+      ],
+      "images": [
+        {
+          "class": "scene",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "priority": "high",
+          "loading": "auto"
+        }
+      ],
+      "transferBytes": 1200
+    },
+    {
+      "run": 1,
+      "route": "/launch.html",
+      "state": "cold",
+      "lcp": 1008,
+      "cls": 0,
+      "lcpEntries": [
+        {
+          "at": 1008,
+          "loadTime": 0,
+          "renderTime": 1008,
+          "size": 35154,
+          "tag": "SPAN",
+          "class": "event-day",
+          "url": "",
+          "text": "09"
+        }
+      ],
+      "loadMs": 6346.5,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/fonts/geist-latin.woff2",
+          "startMs": 233,
+          "requestMs": 236.5,
+          "responseStartMs": 238.09999999962747,
+          "endMs": 818,
+          "transferBytes": 29700,
+          "encodedBytes": 29400,
+          "initiator": "link",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Font"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/styles.css",
+          "startMs": 237.69999999925494,
+          "requestMs": 239.89999999850988,
+          "responseStartMs": 241.5,
+          "endMs": 773.0999999996275,
+          "transferBytes": 23353,
+          "encodedBytes": 23053,
+          "initiator": "link",
+          "initialPriority": "VeryHigh",
+          "priorityChanges": [],
+          "type": "Stylesheet"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/navigation.js",
+          "startMs": 240.19999999925494,
+          "requestMs": 261.19999999925494,
+          "responseStartMs": 262.59999999962747,
+          "endMs": 484.2999999988824,
+          "transferBytes": 3307,
+          "encodedBytes": 3007,
+          "initiator": "script",
+          "initialPriority": "Low",
+          "priorityChanges": [],
+          "type": "Script"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "startMs": 242.5,
+          "requestMs": 244.7999999988824,
+          "responseStartMs": 252.2999999988824,
+          "endMs": 6333.299999998882,
+          "transferBytes": 1122596,
+          "encodedBytes": 1122296,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        }
+      ],
+      "images": [
+        {
+          "class": "scene",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "priority": "high",
+          "loading": "auto"
+        }
+      ],
+      "transferBytes": 1178956
+    },
+    {
+      "run": 1,
+      "route": "/launch.html",
+      "state": "warm",
+      "lcp": 544,
+      "cls": 0.47393364928909953,
+      "lcpEntries": [
+        {
+          "at": 544,
+          "loadTime": 425.90000000037253,
+          "renderTime": 544,
+          "size": 256910,
+          "tag": "IMG",
+          "class": "scene",
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "text": ""
+        }
+      ],
+      "loadMs": 493.59999999962747,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/fonts/geist-latin.woff2",
+          "startMs": 232.09999999962747,
+          "requestMs": 234.7000000011176,
+          "responseStartMs": 236.30000000074506,
+          "endMs": 407.80000000074506,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "link",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Font"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/styles.css",
+          "startMs": 236,
+          "requestMs": 237.7000000011176,
+          "responseStartMs": 239.30000000074506,
+          "endMs": 408.30000000074506,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "link",
+          "initialPriority": "VeryHigh",
+          "priorityChanges": [],
+          "type": "Stylesheet"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/navigation.js",
+          "startMs": 238.2000000011176,
+          "requestMs": 251.7000000011176,
+          "responseStartMs": 253.2000000011176,
+          "endMs": 425.90000000037253,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "script",
+          "initialPriority": "Low",
+          "priorityChanges": [],
+          "type": "Script"
+        },
+        {
+          "url": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "startMs": 240.09999999962747,
+          "requestMs": 243.30000000074506,
+          "responseStartMs": 251.5,
+          "endMs": 410.40000000037253,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        }
+      ],
+      "images": [
+        {
+          "class": "scene",
+          "currentSrc": "http://127.0.0.1:8082/sites/baseline/assets/images/interior.webp",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "priority": "high",
+          "loading": "auto"
+        }
+      ],
+      "transferBytes": 1200
+    }
+  ]
+}

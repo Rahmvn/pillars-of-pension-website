@@ -1,0 +1,398 @@
+{
+  "browser": "147.0.7727.15",
+  "site": "http://127.0.0.1:8083",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "deviceScaleFactor": 1,
+  "network": {
+    "downloadMbps": 1.6,
+    "uploadMbps": 0.75,
+    "latencyMs": 150
+  },
+  "cpuSlowdown": 4,
+  "repetitions": 1,
+  "runs": [
+    {
+      "run": 1,
+      "route": "/",
+      "state": "cold",
+      "lcp": 1924,
+      "cls": 0,
+      "lcpEntries": [
+        {
+          "at": 1292,
+          "loadTime": 0,
+          "renderTime": 1292,
+          "size": 30624,
+          "tag": "P",
+          "class": "home-introduction",
+          "url": "",
+          "text": "Explore the institutions, benefits, and reforms shaping Nigeria’s pension system."
+        },
+        {
+          "at": 1508,
+          "loadTime": 1480.300000000745,
+          "renderTime": 1508,
+          "size": 104760,
+          "tag": "IMG",
+          "class": "book-cover",
+          "url": "http://127.0.0.1:8083/assets/images/book-cover.png",
+          "text": ""
+        },
+        {
+          "at": 1924,
+          "loadTime": 1826.9000000022352,
+          "renderTime": 1924,
+          "size": 255657,
+          "tag": "IMG",
+          "class": "stone-scene",
+          "url": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+          "text": ""
+        }
+      ],
+      "layoutShifts": [],
+      "navigationReadyAt": 929.9000000022352,
+      "loadMs": 1830.699999999255,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:8083/assets/fonts/geist-latin.woff2",
+          "startMs": 242.90000000223517,
+          "requestMs": 245.30000000074506,
+          "responseStartMs": 246.19999999925494,
+          "endMs": 959.3000000007451,
+          "transferBytes": 29700,
+          "encodedBytes": 29400,
+          "initiator": "link",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Font"
+        },
+        {
+          "url": "http://127.0.0.1:8083/styles.css",
+          "startMs": 245.60000000149012,
+          "requestMs": 248.5,
+          "responseStartMs": 249.19999999925494,
+          "endMs": 908.5,
+          "transferBytes": 23394,
+          "encodedBytes": 23094,
+          "initiator": "link",
+          "initialPriority": "VeryHigh",
+          "priorityChanges": [],
+          "type": "Stylesheet"
+        },
+        {
+          "url": "http://127.0.0.1:8083/navigation.js",
+          "startMs": 246.80000000074506,
+          "requestMs": 260.30000000074506,
+          "responseStartMs": 261.30000000074506,
+          "endMs": 527.9000000022352,
+          "transferBytes": 3307,
+          "encodedBytes": 3007,
+          "initiator": "script",
+          "initialPriority": "Low",
+          "priorityChanges": [],
+          "type": "Script"
+        },
+        {
+          "url": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+          "startMs": 248.90000000223517,
+          "requestMs": 251.40000000223517,
+          "responseStartMs": 252.5,
+          "endMs": 1823.5,
+          "transferBytes": 144167,
+          "encodedBytes": 143867,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+          "startMs": 249.19999999925494,
+          "requestMs": 255,
+          "responseStartMs": 258.30000000074506,
+          "endMs": 437,
+          "transferBytes": 1022,
+          "encodedBytes": 722,
+          "initiator": "img",
+          "initialPriority": "Medium",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8083/assets/images/book-cover.png",
+          "startMs": 249.5,
+          "requestMs": 259.9000000022352,
+          "responseStartMs": 260.69999999925494,
+          "endMs": 1477.699999999255,
+          "transferBytes": 77158,
+          "encodedBytes": 76858,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8083/favicon.ico",
+          "startMs": 1833.800000000745,
+          "requestMs": 1836.4000000022352,
+          "responseStartMs": 1837.1000000014901,
+          "endMs": 2006.300000000745,
+          "transferBytes": 309,
+          "encodedBytes": 9,
+          "initiator": "other",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Other"
+        }
+      ],
+      "images": [
+        {
+          "class": "scene",
+          "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1,
+          "naturalHeight": 1,
+          "priority": "high",
+          "loading": "auto"
+        },
+        {
+          "class": "stone-scene",
+          "currentSrc": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "priority": "high",
+          "loading": "auto"
+        },
+        {
+          "class": "book-contact-shadow",
+          "currentSrc": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+          "source": "assets/images/book-contact-shadow.svg",
+          "naturalWidth": 433,
+          "naturalHeight": 58,
+          "priority": "auto",
+          "loading": "auto"
+        },
+        {
+          "class": "book-cover",
+          "currentSrc": "http://127.0.0.1:8083/assets/images/book-cover.png",
+          "source": "assets/images/book-cover.png",
+          "naturalWidth": 480,
+          "naturalHeight": 691,
+          "priority": "high",
+          "loading": "auto"
+        }
+      ],
+      "transferBytes": 279057
+    },
+    {
+      "run": 1,
+      "route": "/",
+      "state": "warm",
+      "lcp": 576,
+      "cls": 0.47393364928909953,
+      "lcpEntries": [
+        {
+          "at": 560,
+          "loadTime": 0,
+          "renderTime": 560,
+          "size": 30624,
+          "tag": "P",
+          "class": "home-introduction",
+          "url": "",
+          "text": "Explore the institutions, benefits, and reforms shaping Nigeria’s pension system."
+        },
+        {
+          "at": 576,
+          "loadTime": 492.6000000014901,
+          "renderTime": 576,
+          "size": 92247,
+          "tag": "IMG",
+          "class": "stone-scene",
+          "url": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+          "text": ""
+        }
+      ],
+      "layoutShifts": [
+        {
+          "at": 517.2000000029802,
+          "value": 0.47393364928909953,
+          "sources": [
+            {
+              "tag": "DIV",
+              "class": "site-shell",
+              "previous": {
+                "x": 0,
+                "y": 19,
+                "width": 390,
+                "height": 825,
+                "top": 19,
+                "right": 390,
+                "bottom": 844,
+                "left": 0
+              },
+              "current": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 844,
+                "top": 0,
+                "right": 390,
+                "bottom": 844,
+                "left": 0
+              }
+            },
+            {
+              "tag": "SPAN",
+              "class": "stone-fade",
+              "previous": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              },
+              "current": {
+                "x": 0,
+                "y": 695.46875,
+                "width": 390,
+                "height": 148.53125,
+                "top": 695.46875,
+                "right": 390,
+                "bottom": 844,
+                "left": 0
+              }
+            }
+          ]
+        }
+      ],
+      "navigationReadyAt": 505.30000000074506,
+      "loadMs": 520.5,
+      "resources": [
+        {
+          "url": "http://127.0.0.1:8083/assets/fonts/geist-latin.woff2",
+          "startMs": 261.9000000022352,
+          "requestMs": 264.6000000014901,
+          "responseStartMs": 265.20000000298023,
+          "endMs": 440.80000000074506,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "link",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Font"
+        },
+        {
+          "url": "http://127.0.0.1:8083/styles.css",
+          "startMs": 265.4000000022352,
+          "requestMs": 267.20000000298023,
+          "responseStartMs": 267.80000000074506,
+          "endMs": 442.30000000074506,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "link",
+          "initialPriority": "VeryHigh",
+          "priorityChanges": [],
+          "type": "Stylesheet"
+        },
+        {
+          "url": "http://127.0.0.1:8083/navigation.js",
+          "startMs": 267.30000000074506,
+          "requestMs": 277.9000000022352,
+          "responseStartMs": 278.80000000074506,
+          "endMs": 472.5,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "script",
+          "initialPriority": "Low",
+          "priorityChanges": [],
+          "type": "Script"
+        },
+        {
+          "url": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+          "startMs": 268.5,
+          "requestMs": 270.30000000074506,
+          "responseStartMs": 270.9000000022352,
+          "endMs": 458.9000000022352,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+          "startMs": 269.70000000298023,
+          "requestMs": 273.4000000022352,
+          "responseStartMs": 275.20000000298023,
+          "endMs": 459.70000000298023,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "img",
+          "initialPriority": "Medium",
+          "priorityChanges": [],
+          "type": "Image"
+        },
+        {
+          "url": "http://127.0.0.1:8083/assets/images/book-cover.png",
+          "startMs": 270.9000000022352,
+          "requestMs": 275.30000000074506,
+          "responseStartMs": 276,
+          "endMs": 471.9000000022352,
+          "transferBytes": 300,
+          "encodedBytes": 0,
+          "initiator": "img",
+          "initialPriority": "High",
+          "priorityChanges": [],
+          "type": "Image"
+        }
+      ],
+      "images": [
+        {
+          "class": "scene",
+          "currentSrc": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1,
+          "naturalHeight": 1,
+          "priority": "high",
+          "loading": "auto"
+        },
+        {
+          "class": "stone-scene",
+          "currentSrc": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+          "source": "assets/images/interior.webp",
+          "naturalWidth": 1536,
+          "naturalHeight": 1024,
+          "priority": "high",
+          "loading": "auto"
+        },
+        {
+          "class": "book-contact-shadow",
+          "currentSrc": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+          "source": "assets/images/book-contact-shadow.svg",
+          "naturalWidth": 433,
+          "naturalHeight": 58,
+          "priority": "auto",
+          "loading": "auto"
+        },
+        {
+          "class": "book-cover",
+          "currentSrc": "http://127.0.0.1:8083/assets/images/book-cover.png",
+          "source": "assets/images/book-cover.png",
+          "naturalWidth": 480,
+          "naturalHeight": 691,
+          "priority": "high",
+          "loading": "auto"
+        }
+      ],
+      "transferBytes": 1800
+    }
+  ]
+}

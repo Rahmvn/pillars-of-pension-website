@@ -17,7 +17,7 @@ Open [the local website](http://127.0.0.1:8080/).
 
 `styles.css` contains the shared typography, colour tokens, navigation, photographic staging, reading layouts, and responsive rules. `navigation.js` manages the mobile navigation and the coming-soon action. Page links remain ordinary HTML links and also work without JavaScript.
 
-The original Figma image exports are retained under `assets/images/`. The background and portrait also have lossless WebP copies for delivery; their decoded RGB pixels match the originals. The cover remains the original PNG. Geist is served locally, with its licence in `assets/fonts/OFL.txt`.
+The original Figma image exports and earlier lossless WebP copies are retained unchanged under `assets/images/`. Modern browsers receive native-resolution AVIF or high-quality WebP background/portrait derivatives from `assets/images/delivery/`. The original cover is served unchanged. No layout, crop, palette, or copy was altered. Geist is served locally, with its licence in `assets/fonts/OFL.txt`. See [the measured image optimization report](qa/IMAGE-OPTIMIZATION.md) for the candidate comparisons, encoding settings, and before/after performance.
 
 The approved designs and the subsequent requested refinements are documented in [the implementation report](qa/IMPLEMENTATION-REPORT.md). Screenshots are in `qa/screenshots/`; Figma comparison renders are in `qa/reference/`. Those renders are development evidence and are never used by the website.
 
@@ -33,7 +33,7 @@ $env:PORT = '8081'
 node qa/serve-built.cjs
 ```
 
-Open [the packaged site](http://127.0.0.1:8081/). The copy step replaces only the generated `dist/` directory and verifies that all 12 runtime files match their sources. `vercel.json` selects the static framework preset, skips dependency installation, and serves only `dist/`. `.vercelignore` restricts CLI uploads; `.gitignore` excludes generated screenshots, temporary files, build output, local Vercel state, and unused TTF downloads. Original design images, WOFF2, its licence, useful tests, and reports are retained in Git.
+Open [the packaged site](http://127.0.0.1:8081/). The copy step replaces only the generated `dist/` directory and verifies that all 16 runtime files match their sources. `vercel.json` selects the static framework preset, skips dependency installation, and serves only `dist/`. `.vercelignore` restricts CLI uploads; `.gitignore` excludes generated screenshots, temporary files, build output, local Vercel state, and unused TTF downloads. Original design images, WOFF2, its licence, useful tests, and reports are retained in Git.
 
 See [the staging procedure](docs/STAGING.md) for the exact Vercel configuration and the commands to run only after deployment approval. See [the production-readiness report](qa/PRODUCTION-READINESS.md) for focus contrast, source preservation, accessibility, caching, and mobile performance evidence. No deployment, push, or release has been performed.
 

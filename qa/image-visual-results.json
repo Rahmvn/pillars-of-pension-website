@@ -1,0 +1,1499 @@
+{
+  "baselineCommit": "0a830f274dd1872eb97e3ae34103a75f736caedd",
+  "cases": [
+    {
+      "name": "home",
+      "width": 320,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.1023,
+        "maximumChannelError": 7,
+        "psnrDb": 56.377,
+        "meanChannelShift": [
+          -0.0606,
+          0.065,
+          -0.0806
+        ],
+        "meanLocalSsim": 0.999886
+      }
+    },
+    {
+      "name": "book",
+      "width": 320,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0484,
+        "maximumChannelError": 1,
+        "psnrDb": 61.283,
+        "meanChannelShift": [
+          -0.03,
+          0.036,
+          -0.0479
+        ],
+        "meanLocalSsim": 0.999817
+      }
+    },
+    {
+      "name": "author",
+      "width": 320,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.1833,
+        "maximumChannelError": 14,
+        "psnrDb": 53.827,
+        "meanChannelShift": [
+          -0.124,
+          0.1217,
+          -0.1567
+        ],
+        "meanLocalSsim": 0.999863
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6227,
+        "maximumChannelError": 14,
+        "psnrDb": 48.465,
+        "meanChannelShift": [
+          -0.4249,
+          0.4114,
+          -0.5303
+        ],
+        "meanLocalSsim": 0.999718
+      }
+    },
+    {
+      "name": "launch",
+      "width": 320,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.085,
+        "maximumChannelError": 2,
+        "psnrDb": 58.833,
+        "meanChannelShift": [
+          -0.0527,
+          0.0637,
+          -0.0852
+        ],
+        "meanLocalSsim": 0.999652
+      }
+    },
+    {
+      "name": "home",
+      "width": 375,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.1098,
+        "maximumChannelError": 9,
+        "psnrDb": 55.994,
+        "meanChannelShift": [
+          -0.0647,
+          0.0675,
+          -0.084
+        ],
+        "meanLocalSsim": 0.999899
+      }
+    },
+    {
+      "name": "book",
+      "width": 375,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0484,
+        "maximumChannelError": 1,
+        "psnrDb": 61.279,
+        "meanChannelShift": [
+          -0.0298,
+          0.0359,
+          -0.048
+        ],
+        "meanLocalSsim": 0.999795
+      }
+    },
+    {
+      "name": "author",
+      "width": 375,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.205,
+        "maximumChannelError": 10,
+        "psnrDb": 53.326,
+        "meanChannelShift": [
+          -0.1397,
+          0.1352,
+          -0.1762
+        ],
+        "meanLocalSsim": 0.999877
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6222,
+        "maximumChannelError": 10,
+        "psnrDb": 48.461,
+        "meanChannelShift": [
+          -0.4268,
+          0.4084,
+          -0.5335
+        ],
+        "meanLocalSsim": 0.999737
+      }
+    },
+    {
+      "name": "launch",
+      "width": 375,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0857,
+        "maximumChannelError": 2,
+        "psnrDb": 58.8,
+        "meanChannelShift": [
+          -0.0532,
+          0.0636,
+          -0.0855
+        ],
+        "meanLocalSsim": 0.999642
+      }
+    },
+    {
+      "name": "home",
+      "width": 390,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.1089,
+        "maximumChannelError": 9,
+        "psnrDb": 56.012,
+        "meanChannelShift": [
+          -0.065,
+          0.0664,
+          -0.0832
+        ],
+        "meanLocalSsim": 0.999744
+      }
+    },
+    {
+      "name": "book",
+      "width": 390,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0487,
+        "maximumChannelError": 1,
+        "psnrDb": 61.259,
+        "meanChannelShift": [
+          -0.0301,
+          0.0358,
+          -0.0481
+        ],
+        "meanLocalSsim": 0.999744
+      }
+    },
+    {
+      "name": "author",
+      "width": 390,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2093,
+        "maximumChannelError": 9,
+        "psnrDb": 53.238,
+        "meanChannelShift": [
+          -0.142,
+          0.1391,
+          -0.1794
+        ],
+        "meanLocalSsim": 0.999855
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6218,
+        "maximumChannelError": 9,
+        "psnrDb": 48.466,
+        "meanChannelShift": [
+          -0.425,
+          0.4118,
+          -0.5314
+        ],
+        "meanLocalSsim": 0.999752
+      }
+    },
+    {
+      "name": "launch",
+      "width": 390,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.086,
+        "maximumChannelError": 2,
+        "psnrDb": 58.783,
+        "meanChannelShift": [
+          -0.0537,
+          0.0632,
+          -0.0858
+        ],
+        "meanLocalSsim": 0.999607
+      }
+    },
+    {
+      "name": "home",
+      "width": 430,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.1103,
+        "maximumChannelError": 9,
+        "psnrDb": 55.924,
+        "meanChannelShift": [
+          -0.0649,
+          0.0669,
+          -0.0854
+        ],
+        "meanLocalSsim": 0.999588
+      }
+    },
+    {
+      "name": "book",
+      "width": 430,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0486,
+        "maximumChannelError": 1,
+        "psnrDb": 61.265,
+        "meanChannelShift": [
+          -0.0299,
+          0.0353,
+          -0.0477
+        ],
+        "meanLocalSsim": 0.999757
+      }
+    },
+    {
+      "name": "author",
+      "width": 430,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2261,
+        "maximumChannelError": 8,
+        "psnrDb": 52.906,
+        "meanChannelShift": [
+          -0.153,
+          0.1504,
+          -0.1948
+        ],
+        "meanLocalSsim": 0.999858
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.619,
+        "maximumChannelError": 8,
+        "psnrDb": 48.494,
+        "meanChannelShift": [
+          -0.4216,
+          0.4105,
+          -0.5321
+        ],
+        "meanLocalSsim": 0.999696
+      }
+    },
+    {
+      "name": "launch",
+      "width": 430,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0869,
+        "maximumChannelError": 2,
+        "psnrDb": 58.737,
+        "meanChannelShift": [
+          -0.0538,
+          0.0645,
+          -0.0858
+        ],
+        "meanLocalSsim": 0.999599
+      }
+    },
+    {
+      "name": "home",
+      "width": 768,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0536,
+        "maximumChannelError": 7,
+        "psnrDb": 59.903,
+        "meanChannelShift": [
+          -0.0335,
+          0.0362,
+          -0.0423
+        ],
+        "meanLocalSsim": 0.999836
+      }
+    },
+    {
+      "name": "book",
+      "width": 768,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.05,
+        "maximumChannelError": 1,
+        "psnrDb": 61.14,
+        "meanChannelShift": [
+          -0.0316,
+          0.0389,
+          -0.0478
+        ],
+        "meanLocalSsim": 0.999722
+      }
+    },
+    {
+      "name": "author",
+      "width": 768,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.1838,
+        "maximumChannelError": 12,
+        "psnrDb": 53.83,
+        "meanChannelShift": [
+          -0.1236,
+          0.1222,
+          -0.1579
+        ],
+        "meanLocalSsim": 0.999797
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6123,
+        "maximumChannelError": 12,
+        "psnrDb": 48.538,
+        "meanChannelShift": [
+          -0.4139,
+          0.4033,
+          -0.5249
+        ],
+        "meanLocalSsim": 0.999605
+      }
+    },
+    {
+      "name": "launch",
+      "width": 768,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0911,
+        "maximumChannelError": 2,
+        "psnrDb": 58.533,
+        "meanChannelShift": [
+          -0.0565,
+          0.0714,
+          -0.0889
+        ],
+        "meanLocalSsim": 0.99942
+      }
+    },
+    {
+      "name": "home",
+      "width": 1440,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.5353,
+        "maximumChannelError": 12,
+        "psnrDb": 49.091,
+        "meanChannelShift": [
+          -0.3603,
+          0.3511,
+          -0.4638
+        ],
+        "meanLocalSsim": 0.99763
+      }
+    },
+    {
+      "name": "book",
+      "width": 1440,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2349,
+        "maximumChannelError": 7,
+        "psnrDb": 53.346,
+        "meanChannelShift": [
+          -0.1634,
+          0.1765,
+          -0.2162
+        ],
+        "meanLocalSsim": 0.998754
+      }
+    },
+    {
+      "name": "author",
+      "width": 1440,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2485,
+        "maximumChannelError": 11,
+        "psnrDb": 52.395,
+        "meanChannelShift": [
+          -0.1707,
+          0.1635,
+          -0.2117
+        ],
+        "meanLocalSsim": 0.999703
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6702,
+        "maximumChannelError": 11,
+        "psnrDb": 48.087,
+        "meanChannelShift": [
+          -0.4603,
+          0.4409,
+          -0.5709
+        ],
+        "meanLocalSsim": 0.999126
+      }
+    },
+    {
+      "name": "launch",
+      "width": 1440,
+      "dpr": 1,
+      "candidate": "optimized",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2326,
+        "maximumChannelError": 7,
+        "psnrDb": 53.379,
+        "meanChannelShift": [
+          -0.1619,
+          0.1745,
+          -0.2143
+        ],
+        "meanLocalSsim": 0.998819
+      }
+    },
+    {
+      "name": "home",
+      "width": 390,
+      "dpr": 2,
+      "candidate": "optimized-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.1087,
+        "maximumChannelError": 9,
+        "psnrDb": 56.031,
+        "meanChannelShift": [
+          -0.065,
+          0.0659,
+          -0.084
+        ],
+        "meanLocalSsim": 0.999459
+      }
+    },
+    {
+      "name": "book",
+      "width": 390,
+      "dpr": 2,
+      "candidate": "optimized-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0486,
+        "maximumChannelError": 1,
+        "psnrDb": 61.265,
+        "meanChannelShift": [
+          -0.0302,
+          0.0358,
+          -0.0478
+        ],
+        "meanLocalSsim": 0.999664
+      }
+    },
+    {
+      "name": "author",
+      "width": 390,
+      "dpr": 2,
+      "candidate": "optimized-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2091,
+        "maximumChannelError": 13,
+        "psnrDb": 53.24,
+        "meanChannelShift": [
+          -0.1418,
+          0.1381,
+          -0.1796
+        ],
+        "meanLocalSsim": 0.999708
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6215,
+        "maximumChannelError": 13,
+        "psnrDb": 48.466,
+        "meanChannelShift": [
+          -0.4245,
+          0.4094,
+          -0.5321
+        ],
+        "meanLocalSsim": 0.999303
+      }
+    },
+    {
+      "name": "launch",
+      "width": 390,
+      "dpr": 2,
+      "candidate": "optimized-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0858,
+        "maximumChannelError": 2,
+        "psnrDb": 58.794,
+        "meanChannelShift": [
+          -0.0536,
+          0.0633,
+          -0.0855
+        ],
+        "meanLocalSsim": 0.999355
+      }
+    },
+    {
+      "name": "home",
+      "width": 768,
+      "dpr": 2,
+      "candidate": "optimized-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0536,
+        "maximumChannelError": 8,
+        "psnrDb": 59.914,
+        "meanChannelShift": [
+          -0.0337,
+          0.036,
+          -0.0424
+        ],
+        "meanLocalSsim": 0.999649
+      }
+    },
+    {
+      "name": "book",
+      "width": 768,
+      "dpr": 2,
+      "candidate": "optimized-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0501,
+        "maximumChannelError": 1,
+        "psnrDb": 61.132,
+        "meanChannelShift": [
+          -0.0317,
+          0.0388,
+          -0.0478
+        ],
+        "meanLocalSsim": 0.999588
+      }
+    },
+    {
+      "name": "author",
+      "width": 768,
+      "dpr": 2,
+      "candidate": "optimized-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.1838,
+        "maximumChannelError": 12,
+        "psnrDb": 53.827,
+        "meanChannelShift": [
+          -0.1242,
+          0.1219,
+          -0.158
+        ],
+        "meanLocalSsim": 0.999649
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6122,
+        "maximumChannelError": 12,
+        "psnrDb": 48.535,
+        "meanChannelShift": [
+          -0.4163,
+          0.4026,
+          -0.5252
+        ],
+        "meanLocalSsim": 0.999179
+      }
+    },
+    {
+      "name": "launch",
+      "width": 768,
+      "dpr": 2,
+      "candidate": "optimized-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0909,
+        "maximumChannelError": 2,
+        "psnrDb": 58.546,
+        "meanChannelShift": [
+          -0.0565,
+          0.0714,
+          -0.0884
+        ],
+        "meanLocalSsim": 0.999267
+      }
+    },
+    {
+      "name": "home",
+      "width": 1440,
+      "dpr": 2,
+      "candidate": "optimized-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.5334,
+        "maximumChannelError": 12,
+        "psnrDb": 49.132,
+        "meanChannelShift": [
+          -0.3593,
+          0.3517,
+          -0.4648
+        ],
+        "meanLocalSsim": 0.996776
+      }
+    },
+    {
+      "name": "book",
+      "width": 1440,
+      "dpr": 2,
+      "candidate": "optimized-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2349,
+        "maximumChannelError": 7,
+        "psnrDb": 53.348,
+        "meanChannelShift": [
+          -0.1637,
+          0.1765,
+          -0.2167
+        ],
+        "meanLocalSsim": 0.998338
+      }
+    },
+    {
+      "name": "author",
+      "width": 1440,
+      "dpr": 2,
+      "candidate": "optimized-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2489,
+        "maximumChannelError": 12,
+        "psnrDb": 52.386,
+        "meanChannelShift": [
+          -0.172,
+          0.1641,
+          -0.2115
+        ],
+        "meanLocalSsim": 0.999467
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6714,
+        "maximumChannelError": 12,
+        "psnrDb": 48.077,
+        "meanChannelShift": [
+          -0.4638,
+          0.4424,
+          -0.5703
+        ],
+        "meanLocalSsim": 0.998494
+      }
+    },
+    {
+      "name": "launch",
+      "width": 1440,
+      "dpr": 2,
+      "candidate": "optimized-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2327,
+        "maximumChannelError": 7,
+        "psnrDb": 53.38,
+        "meanChannelShift": [
+          -0.1621,
+          0.1745,
+          -0.2147
+        ],
+        "meanLocalSsim": 0.998424
+      }
+    },
+    {
+      "name": "home",
+      "width": 320,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0978,
+        "maximumChannelError": 8,
+        "psnrDb": 56.358,
+        "meanChannelShift": [
+          -0.0023,
+          0.025,
+          0.0042
+        ],
+        "meanLocalSsim": 0.999896
+      }
+    },
+    {
+      "name": "book",
+      "width": 320,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0443,
+        "maximumChannelError": 1,
+        "psnrDb": 61.664,
+        "meanChannelShift": [
+          -0.0119,
+          0.0157,
+          0.0084
+        ],
+        "meanLocalSsim": 0.99981
+      }
+    },
+    {
+      "name": "author",
+      "width": 320,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.1872,
+        "maximumChannelError": 21,
+        "psnrDb": 53.254,
+        "meanChannelShift": [
+          0.019,
+          0.0096,
+          0.0339
+        ],
+        "meanLocalSsim": 0.999802
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6378,
+        "maximumChannelError": 21,
+        "psnrDb": 47.874,
+        "meanChannelShift": [
+          0.0738,
+          0.0279,
+          0.1173
+        ],
+        "meanLocalSsim": 0.999573
+      }
+    },
+    {
+      "name": "launch",
+      "width": 320,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.078,
+        "maximumChannelError": 2,
+        "psnrDb": 59.207,
+        "meanChannelShift": [
+          -0.0283,
+          0.0217,
+          0.0171
+        ],
+        "meanLocalSsim": 0.999652
+      }
+    },
+    {
+      "name": "home",
+      "width": 375,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.1045,
+        "maximumChannelError": 10,
+        "psnrDb": 55.999,
+        "meanChannelShift": [
+          -0.0091,
+          0.0285,
+          0.0027
+        ],
+        "meanLocalSsim": 0.999888
+      }
+    },
+    {
+      "name": "book",
+      "width": 375,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0449,
+        "maximumChannelError": 1,
+        "psnrDb": 61.607,
+        "meanChannelShift": [
+          -0.0108,
+          0.0154,
+          0.0082
+        ],
+        "meanLocalSsim": 0.99979
+      }
+    },
+    {
+      "name": "author",
+      "width": 375,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2085,
+        "maximumChannelError": 23,
+        "psnrDb": 52.803,
+        "meanChannelShift": [
+          0.0206,
+          0.0097,
+          0.036
+        ],
+        "meanLocalSsim": 0.999834
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6341,
+        "maximumChannelError": 23,
+        "psnrDb": 47.924,
+        "meanChannelShift": [
+          0.0704,
+          0.0256,
+          0.1113
+        ],
+        "meanLocalSsim": 0.999604
+      }
+    },
+    {
+      "name": "launch",
+      "width": 375,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0787,
+        "maximumChannelError": 2,
+        "psnrDb": 59.168,
+        "meanChannelShift": [
+          -0.0251,
+          0.0208,
+          0.016
+        ],
+        "meanLocalSsim": 0.999642
+      }
+    },
+    {
+      "name": "home",
+      "width": 390,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.1041,
+        "maximumChannelError": 10,
+        "psnrDb": 56.013,
+        "meanChannelShift": [
+          -0.0112,
+          0.0297,
+          0.0025
+        ],
+        "meanLocalSsim": 0.999704
+      }
+    },
+    {
+      "name": "book",
+      "width": 390,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0449,
+        "maximumChannelError": 1,
+        "psnrDb": 61.608,
+        "meanChannelShift": [
+          -0.0109,
+          0.0158,
+          0.0083
+        ],
+        "meanLocalSsim": 0.999752
+      }
+    },
+    {
+      "name": "author",
+      "width": 390,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.214,
+        "maximumChannelError": 21,
+        "psnrDb": 52.665,
+        "meanChannelShift": [
+          0.021,
+          0.01,
+          0.0375
+        ],
+        "meanLocalSsim": 0.999806
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6373,
+        "maximumChannelError": 21,
+        "psnrDb": 47.877,
+        "meanChannelShift": [
+          0.0698,
+          0.0262,
+          0.1135
+        ],
+        "meanLocalSsim": 0.999626
+      }
+    },
+    {
+      "name": "launch",
+      "width": 390,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.079,
+        "maximumChannelError": 2,
+        "psnrDb": 59.152,
+        "meanChannelShift": [
+          -0.0251,
+          0.0206,
+          0.0157
+        ],
+        "meanLocalSsim": 0.99961
+      }
+    },
+    {
+      "name": "home",
+      "width": 430,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.1064,
+        "maximumChannelError": 9,
+        "psnrDb": 55.898,
+        "meanChannelShift": [
+          -0.0137,
+          0.0336,
+          0.0037
+        ],
+        "meanLocalSsim": 0.999551
+      }
+    },
+    {
+      "name": "book",
+      "width": 430,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0453,
+        "maximumChannelError": 1,
+        "psnrDb": 61.575,
+        "meanChannelShift": [
+          -0.0103,
+          0.0154,
+          0.0079
+        ],
+        "meanLocalSsim": 0.999756
+      }
+    },
+    {
+      "name": "author",
+      "width": 430,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.231,
+        "maximumChannelError": 22,
+        "psnrDb": 52.359,
+        "meanChannelShift": [
+          0.0239,
+          0.0108,
+          0.0405
+        ],
+        "meanLocalSsim": 0.999809
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6336,
+        "maximumChannelError": 22,
+        "psnrDb": 47.934,
+        "meanChannelShift": [
+          0.0717,
+          0.0264,
+          0.1129
+        ],
+        "meanLocalSsim": 0.999549
+      }
+    },
+    {
+      "name": "launch",
+      "width": 430,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.08,
+        "maximumChannelError": 2,
+        "psnrDb": 59.098,
+        "meanChannelShift": [
+          -0.0232,
+          0.0215,
+          0.0164
+        ],
+        "meanLocalSsim": 0.999607
+      }
+    },
+    {
+      "name": "home",
+      "width": 768,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0494,
+        "maximumChannelError": 10,
+        "psnrDb": 60.197,
+        "meanChannelShift": [
+          -0.0035,
+          0.0113,
+          0.004
+        ],
+        "meanLocalSsim": 0.999833
+      }
+    },
+    {
+      "name": "book",
+      "width": 768,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0453,
+        "maximumChannelError": 1,
+        "psnrDb": 61.567,
+        "meanChannelShift": [
+          -0.0059,
+          0.0136,
+          0.0051
+        ],
+        "meanLocalSsim": 0.999731
+      }
+    },
+    {
+      "name": "author",
+      "width": 768,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.1871,
+        "maximumChannelError": 25,
+        "psnrDb": 53.287,
+        "meanChannelShift": [
+          0.0185,
+          0.0081,
+          0.0319
+        ],
+        "meanLocalSsim": 0.999747
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6265,
+        "maximumChannelError": 25,
+        "psnrDb": 47.967,
+        "meanChannelShift": [
+          0.0712,
+          0.0245,
+          0.1113
+        ],
+        "meanLocalSsim": 0.999392
+      }
+    },
+    {
+      "name": "launch",
+      "width": 768,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0802,
+        "maximumChannelError": 2,
+        "psnrDb": 59.086,
+        "meanChannelShift": [
+          -0.0126,
+          0.0187,
+          0.0129
+        ],
+        "meanLocalSsim": 0.99946
+      }
+    },
+    {
+      "name": "home",
+      "width": 1440,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.4973,
+        "maximumChannelError": 13,
+        "psnrDb": 49.242,
+        "meanChannelShift": [
+          -0.0082,
+          0.1175,
+          0.0077
+        ],
+        "meanLocalSsim": 0.997468
+      }
+    },
+    {
+      "name": "book",
+      "width": 1440,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2105,
+        "maximumChannelError": 6,
+        "psnrDb": 53.81,
+        "meanChannelShift": [
+          -0.0344,
+          0.0636,
+          0.0205
+        ],
+        "meanLocalSsim": 0.998705
+      }
+    },
+    {
+      "name": "author",
+      "width": 1440,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2544,
+        "maximumChannelError": 24,
+        "psnrDb": 51.852,
+        "meanChannelShift": [
+          0.0277,
+          0.0115,
+          0.0422
+        ],
+        "meanLocalSsim": 0.999506
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6861,
+        "maximumChannelError": 24,
+        "psnrDb": 47.543,
+        "meanChannelShift": [
+          0.0747,
+          0.0311,
+          0.1139
+        ],
+        "meanLocalSsim": 0.998542
+      }
+    },
+    {
+      "name": "launch",
+      "width": 1440,
+      "dpr": 1,
+      "candidate": "optimized-webp",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2087,
+        "maximumChannelError": 6,
+        "psnrDb": 53.84,
+        "meanChannelShift": [
+          -0.0344,
+          0.0635,
+          0.0198
+        ],
+        "meanLocalSsim": 0.998779
+      }
+    },
+    {
+      "name": "home",
+      "width": 390,
+      "dpr": 2,
+      "candidate": "optimized-webp-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.104,
+        "maximumChannelError": 10,
+        "psnrDb": 56.039,
+        "meanChannelShift": [
+          -0.0111,
+          0.0297,
+          0.0019
+        ],
+        "meanLocalSsim": 0.999406
+      }
+    },
+    {
+      "name": "book",
+      "width": 390,
+      "dpr": 2,
+      "candidate": "optimized-webp-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0449,
+        "maximumChannelError": 1,
+        "psnrDb": 61.609,
+        "meanChannelShift": [
+          -0.011,
+          0.0152,
+          0.0082
+        ],
+        "meanLocalSsim": 0.999661
+      }
+    },
+    {
+      "name": "author",
+      "width": 390,
+      "dpr": 2,
+      "candidate": "optimized-webp-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2132,
+        "maximumChannelError": 23,
+        "psnrDb": 52.696,
+        "meanChannelShift": [
+          0.0214,
+          0.0096,
+          0.0377
+        ],
+        "meanLocalSsim": 0.999587
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6352,
+        "maximumChannelError": 23,
+        "psnrDb": 47.907,
+        "meanChannelShift": [
+          0.0712,
+          0.0256,
+          0.114
+        ],
+        "meanLocalSsim": 0.998912
+      }
+    },
+    {
+      "name": "launch",
+      "width": 390,
+      "dpr": 2,
+      "candidate": "optimized-webp-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0792,
+        "maximumChannelError": 2,
+        "psnrDb": 59.142,
+        "meanChannelShift": [
+          -0.0241,
+          0.0202,
+          0.0165
+        ],
+        "meanLocalSsim": 0.999356
+      }
+    },
+    {
+      "name": "home",
+      "width": 768,
+      "dpr": 2,
+      "candidate": "optimized-webp-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0495,
+        "maximumChannelError": 9,
+        "psnrDb": 60.196,
+        "meanChannelShift": [
+          -0.0035,
+          0.0114,
+          0.0037
+        ],
+        "meanLocalSsim": 0.999632
+      }
+    },
+    {
+      "name": "book",
+      "width": 768,
+      "dpr": 2,
+      "candidate": "optimized-webp-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0455,
+        "maximumChannelError": 1,
+        "psnrDb": 61.549,
+        "meanChannelShift": [
+          -0.006,
+          0.0137,
+          0.0054
+        ],
+        "meanLocalSsim": 0.9996
+      }
+    },
+    {
+      "name": "author",
+      "width": 768,
+      "dpr": 2,
+      "candidate": "optimized-webp-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.187,
+        "maximumChannelError": 24,
+        "psnrDb": 53.287,
+        "meanChannelShift": [
+          0.0185,
+          0.0084,
+          0.0324
+        ],
+        "meanLocalSsim": 0.999534
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6262,
+        "maximumChannelError": 24,
+        "psnrDb": 47.966,
+        "meanChannelShift": [
+          0.071,
+          0.0254,
+          0.1125
+        ],
+        "meanLocalSsim": 0.998729
+      }
+    },
+    {
+      "name": "launch",
+      "width": 768,
+      "dpr": 2,
+      "candidate": "optimized-webp-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.0803,
+        "maximumChannelError": 2,
+        "psnrDb": 59.08,
+        "meanChannelShift": [
+          -0.0125,
+          0.0191,
+          0.013
+        ],
+        "meanLocalSsim": 0.999298
+      }
+    },
+    {
+      "name": "home",
+      "width": 1440,
+      "dpr": 2,
+      "candidate": "optimized-webp-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.4979,
+        "maximumChannelError": 14,
+        "psnrDb": 49.237,
+        "meanChannelShift": [
+          -0.0056,
+          0.1198,
+          0.0088
+        ],
+        "meanLocalSsim": 0.996525
+      }
+    },
+    {
+      "name": "book",
+      "width": 1440,
+      "dpr": 2,
+      "candidate": "optimized-webp-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2107,
+        "maximumChannelError": 6,
+        "psnrDb": 53.806,
+        "meanChannelShift": [
+          -0.0347,
+          0.0636,
+          0.0202
+        ],
+        "meanLocalSsim": 0.998264
+      }
+    },
+    {
+      "name": "author",
+      "width": 1440,
+      "dpr": 2,
+      "candidate": "optimized-webp-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2543,
+        "maximumChannelError": 24,
+        "psnrDb": 51.843,
+        "meanChannelShift": [
+          0.0276,
+          0.012,
+          0.0426
+        ],
+        "meanLocalSsim": 0.99914
+      },
+      "portrait": {
+        "meanAbsoluteError": 0.6859,
+        "maximumChannelError": 24,
+        "psnrDb": 47.534,
+        "meanChannelShift": [
+          0.0745,
+          0.0323,
+          0.1149
+        ],
+        "meanLocalSsim": 0.997547
+      }
+    },
+    {
+      "name": "launch",
+      "width": 1440,
+      "dpr": 2,
+      "candidate": "optimized-webp-dpr2",
+      "layoutAndCopyUnchanged": true,
+      "page": {
+        "meanAbsoluteError": 0.2088,
+        "maximumChannelError": 6,
+        "psnrDb": 53.836,
+        "meanChannelShift": [
+          -0.0347,
+          0.0636,
+          0.0195
+        ],
+        "meanLocalSsim": 0.998354
+      }
+    }
+  ]
+}

@@ -1,0 +1,1474 @@
+[
+  {
+    "route": "/",
+    "width": 320,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": false,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "width": 375,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": false,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "width": 390,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": false,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "width": 430,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": false,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "width": 768,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": false,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "width": 1099,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": false,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "width": 1100,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": true,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "width": 1440,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": true,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 320,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 375,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 390,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 430,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 768,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 1099,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 1100,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 1440,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 320,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 375,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 390,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 430,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 768,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 1099,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 1100,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 1440,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 320,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 375,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 390,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 430,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 768,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 1099,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 1100,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 1440,
+    "dpr": 1,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "width": 320,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": false,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "width": 375,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": false,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "width": 390,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": false,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "width": 430,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": false,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "width": 768,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": false,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "width": 1099,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": false,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "width": 1100,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": true,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/",
+    "width": 1440,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "stone-scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "book-contact-shadow",
+        "source": "http://127.0.0.1:8083/assets/images/book-contact-shadow.svg",
+        "visible": true,
+        "loading": "auto",
+        "priority": "auto",
+        "loaded": true
+      },
+      {
+        "class": "book-cover",
+        "source": "http://127.0.0.1:8083/assets/images/book-cover.png",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 320,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 375,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 390,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 430,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 768,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 1099,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 1100,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/book.html",
+    "width": 1440,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 320,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 375,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 390,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 430,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 768,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 1099,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 1100,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/author.html",
+    "width": 1440,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
+        "visible": false,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      },
+      {
+        "class": "",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/author-1153.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 320,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 375,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 390,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 430,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 768,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 1099,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 1100,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  },
+  {
+    "route": "/launch.html",
+    "width": 1440,
+    "dpr": 2,
+    "images": [
+      {
+        "class": "scene",
+        "source": "http://127.0.0.1:8083/assets/images/delivery/interior-1536.avif",
+        "visible": true,
+        "loading": "auto",
+        "priority": "high",
+        "loaded": true
+      }
+    ]
+  }
+]
