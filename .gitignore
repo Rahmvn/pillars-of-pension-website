@@ -1,0 +1,22 @@
+# Local deployment state and reproducible build output.
+/.vercel/
+/dist/
+/node_modules/
+.env
+.env.*
+!.env.example
+*.log
+*.zip
+.DS_Store
+Thumbs.db
+
+# Retain scripts and text reports, not generated image captures or temporary downloads.
+/qa/screenshots/
+/qa/reference/
+/qa/artifacts/
+/qa/*-review.jpg
+/qa/review-*.jpg
+/qa/geist-source.css
+
+# Unused source font formats are preserved locally; WOFF2 and its licence are tracked.
+/assets/fonts/*.ttf

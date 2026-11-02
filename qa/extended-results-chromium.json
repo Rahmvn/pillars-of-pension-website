@@ -1,0 +1,570 @@
+{
+  "engine": "chromium",
+  "browserVersion": "147.0.7727.15",
+  "layouts": [
+    {
+      "route": "/",
+      "width": 360,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 480,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 599,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 600,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 719,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 720,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 900,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 1099,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 1100,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 1600,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 360,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 480,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 599,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 600,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 719,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 720,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 900,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 1099,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 1100,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 1600,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 360,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 480,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 599,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 600,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 719,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 720,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 900,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 1099,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 1100,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 1600,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 360,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 480,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 599,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 600,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 719,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 720,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 900,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 1099,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 1100,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 1600,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 1920,
+      "passed": true
+    }
+  ],
+  "accessibility": [
+    {
+      "route": "/",
+      "width": 390,
+      "open": false,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodes": [
+            {
+              "target": [
+                ".home-introduction"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined because it partially overlaps other elements"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "open": true,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodes": [
+            {
+              "target": [
+                ".page-locator"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                ".close-icon"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href=\"./\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href$=\"book.html\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href$=\"author.html\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href$=\"launch.html\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/book.html",
+      "width": 390,
+      "open": false,
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/book.html",
+      "width": 390,
+      "open": true,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodes": [
+            {
+              "target": [
+                ".page-locator"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                ".close-icon"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href=\"./\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href$=\"book.html\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href$=\"author.html\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href$=\"launch.html\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/author.html",
+      "width": 390,
+      "open": false,
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/author.html",
+      "width": 390,
+      "open": true,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodes": [
+            {
+              "target": [
+                ".page-locator"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                ".close-icon"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href=\"./\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href$=\"book.html\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href$=\"author.html\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href$=\"launch.html\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/launch.html",
+      "width": 390,
+      "open": false,
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/launch.html",
+      "width": 390,
+      "open": true,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "nodes": [
+            {
+              "target": [
+                ".page-locator"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                ".close-icon"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href=\"./\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href$=\"book.html\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href$=\"author.html\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            },
+            {
+              "target": [
+                "a[href$=\"launch.html\"]"
+              ],
+              "summary": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "open": false,
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/book.html",
+      "width": 1440,
+      "open": false,
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/author.html",
+      "width": 1440,
+      "open": false,
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/launch.html",
+      "width": 1440,
+      "open": false,
+      "violations": [],
+      "incomplete": []
+    }
+  ],
+  "interactions": [
+    "32 navigation pairs; active page does not reload",
+    "Keyboard skip link, visible focus, and Enter activation",
+    "Breakpoint focus handoff and short viewport menu scrolling",
+    "Normal Back/Forward history (initial scroll 121px); no custom history routing",
+    "Reduced motion removes transitions",
+    "Navigation works without JavaScript"
+  ],
+  "performance": [
+    {
+      "route": "/",
+      "transferBytes": 1257136,
+      "loadMs": 43.700000000186265,
+      "resources": 6,
+      "externalRequests": 0
+    },
+    {
+      "route": "/book.html",
+      "transferBytes": 1178956,
+      "loadMs": 68.29999999981374,
+      "resources": 4,
+      "externalRequests": 0
+    },
+    {
+      "route": "/author.html",
+      "transferBytes": 2346622,
+      "loadMs": 49,
+      "resources": 5,
+      "externalRequests": 0
+    },
+    {
+      "route": "/launch.html",
+      "transferBytes": 1178956,
+      "loadMs": 76.3999999994412,
+      "resources": 4,
+      "externalRequests": 0
+    }
+  ]
+}

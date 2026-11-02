@@ -1,0 +1,305 @@
+{
+  "engine": "firefox",
+  "browserVersion": "151.0",
+  "layouts": [
+    {
+      "route": "/",
+      "width": 360,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 480,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 599,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 600,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 719,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 720,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 900,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 1099,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 1100,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 1600,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 360,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 480,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 599,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 600,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 719,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 720,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 900,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 1099,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 1100,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 1600,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 360,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 480,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 599,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 600,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 719,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 720,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 900,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 1099,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 1100,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 1600,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "width": 1920,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 360,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 480,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 599,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 600,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 719,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 720,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 900,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 1024,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 1099,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 1100,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 1280,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 1600,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "width": 1920,
+      "passed": true
+    }
+  ],
+  "accessibility": [],
+  "interactions": [
+    "32 navigation pairs; active page does not reload",
+    "Keyboard skip link, visible focus, and Enter activation",
+    "Breakpoint focus handoff and short viewport menu scrolling",
+    "Normal Back/Forward history (initial scroll 121px); no custom history routing",
+    "Reduced motion removes transitions",
+    "Navigation works without JavaScript"
+  ],
+  "performance": [
+    {
+      "route": "/",
+      "transferBytes": 1257445,
+      "loadMs": 115,
+      "resources": 7,
+      "externalRequests": 0
+    },
+    {
+      "route": "/book.html",
+      "transferBytes": 1179265,
+      "loadMs": 145,
+      "resources": 5,
+      "externalRequests": 0
+    },
+    {
+      "route": "/author.html",
+      "transferBytes": 2346931,
+      "loadMs": 149,
+      "resources": 6,
+      "externalRequests": 0
+    },
+    {
+      "route": "/launch.html",
+      "transferBytes": 1179265,
+      "loadMs": 173,
+      "resources": 5,
+      "externalRequests": 0
+    }
+  ]
+}

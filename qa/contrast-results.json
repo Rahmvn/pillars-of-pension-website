@@ -1,0 +1,1521 @@
+{
+  "focus": [
+    {
+      "route": "/",
+      "viewport": 390,
+      "selector": ".skip-link",
+      "state": "skip",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "selector": ".get-book",
+      "state": "action-default",
+      "color": "rgb(41, 55, 46)",
+      "width": 3,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        9.207
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "selector": ".get-book",
+      "state": "action-hover",
+      "color": "rgb(41, 55, 46)",
+      "width": 3,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        9.207
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "selector": ".get-book",
+      "state": "action-pressed",
+      "color": "rgb(41, 55, 46)",
+      "width": 3,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        9.207
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "selector": ".menu-toggle",
+      "state": "hamburger",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "selector": ".menu-toggle",
+      "state": "close",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(1)",
+      "state": "navigation-1",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(2)",
+      "state": "navigation-2",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(3)",
+      "state": "navigation-3",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(4)",
+      "state": "navigation-4",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 390,
+      "selector": ".skip-link",
+      "state": "skip",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        10.69
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 390,
+      "selector": ".menu-toggle",
+      "state": "hamburger",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        10.587
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 390,
+      "selector": ".menu-toggle",
+      "state": "close",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(1)",
+      "state": "navigation-1",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(2)",
+      "state": "navigation-2",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(3)",
+      "state": "navigation-3",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(4)",
+      "state": "navigation-4",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 390,
+      "selector": ".skip-link",
+      "state": "skip",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.186
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 390,
+      "selector": ".menu-toggle",
+      "state": "hamburger",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.164
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 390,
+      "selector": ".menu-toggle",
+      "state": "close",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(1)",
+      "state": "navigation-1",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(2)",
+      "state": "navigation-2",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(3)",
+      "state": "navigation-3",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(4)",
+      "state": "navigation-4",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 390,
+      "selector": ".skip-link",
+      "state": "skip",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        9.983
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 390,
+      "selector": ".menu-toggle",
+      "state": "hamburger",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        9.747
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 390,
+      "selector": ".menu-toggle",
+      "state": "close",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(1)",
+      "state": "navigation-1",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(2)",
+      "state": "navigation-2",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(3)",
+      "state": "navigation-3",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 390,
+      "selector": ".primary-navigation a:nth-child(4)",
+      "state": "navigation-4",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 768,
+      "selector": ".skip-link",
+      "state": "skip",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 768,
+      "selector": ".get-book",
+      "state": "action-default",
+      "color": "rgb(41, 55, 46)",
+      "width": 3,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.364
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 768,
+      "selector": ".get-book",
+      "state": "action-hover",
+      "color": "rgb(41, 55, 46)",
+      "width": 3,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.364
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 768,
+      "selector": ".get-book",
+      "state": "action-pressed",
+      "color": "rgb(41, 55, 46)",
+      "width": 3,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.364
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 768,
+      "selector": ".menu-toggle",
+      "state": "hamburger",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 768,
+      "selector": ".menu-toggle",
+      "state": "close",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(1)",
+      "state": "navigation-1",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(2)",
+      "state": "navigation-2",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(3)",
+      "state": "navigation-3",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(4)",
+      "state": "navigation-4",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 768,
+      "selector": ".skip-link",
+      "state": "skip",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        10.808
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 768,
+      "selector": ".menu-toggle",
+      "state": "hamburger",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        9.43
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 768,
+      "selector": ".menu-toggle",
+      "state": "close",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(1)",
+      "state": "navigation-1",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(2)",
+      "state": "navigation-2",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(3)",
+      "state": "navigation-3",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(4)",
+      "state": "navigation-4",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 768,
+      "selector": ".skip-link",
+      "state": "skip",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.193
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 768,
+      "selector": ".menu-toggle",
+      "state": "hamburger",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        10.773
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 768,
+      "selector": ".menu-toggle",
+      "state": "close",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(1)",
+      "state": "navigation-1",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(2)",
+      "state": "navigation-2",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(3)",
+      "state": "navigation-3",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(4)",
+      "state": "navigation-4",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 768,
+      "selector": ".skip-link",
+      "state": "skip",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        10.263
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 768,
+      "selector": ".menu-toggle",
+      "state": "hamburger",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        7.728
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 768,
+      "selector": ".menu-toggle",
+      "state": "close",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(1)",
+      "state": "navigation-1",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(2)",
+      "state": "navigation-2",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(3)",
+      "state": "navigation-3",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 768,
+      "selector": ".primary-navigation a:nth-child(4)",
+      "state": "navigation-4",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": -4,
+      "adjacentRatios": [
+        11.471,
+        11.471
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 1440,
+      "selector": ".skip-link",
+      "state": "skip",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.674
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 1440,
+      "selector": ".get-book",
+      "state": "action-default",
+      "color": "rgb(41, 55, 46)",
+      "width": 3,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        9.985
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 1440,
+      "selector": ".get-book",
+      "state": "action-hover",
+      "color": "rgb(41, 55, 46)",
+      "width": 3,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        9.985
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 1440,
+      "selector": ".get-book",
+      "state": "action-pressed",
+      "color": "rgb(41, 55, 46)",
+      "width": 3,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        9.985
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(1)",
+      "state": "navigation-1",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        8.87
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(2)",
+      "state": "navigation-2",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        8.328
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(3)",
+      "state": "navigation-3",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        7.183
+      ],
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(4)",
+      "state": "navigation-4",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        6.89
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 1440,
+      "selector": ".skip-link",
+      "state": "skip",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.565
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(1)",
+      "state": "navigation-1",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.378
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(2)",
+      "state": "navigation-2",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.172
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(3)",
+      "state": "navigation-3",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        10.898
+      ],
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(4)",
+      "state": "navigation-4",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        10.063
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 1440,
+      "selector": ".skip-link",
+      "state": "skip",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.371
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(1)",
+      "state": "navigation-1",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.257
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(2)",
+      "state": "navigation-2",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.164
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(3)",
+      "state": "navigation-3",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.158
+      ],
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(4)",
+      "state": "navigation-4",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.08
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 1440,
+      "selector": ".skip-link",
+      "state": "skip",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.565
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(1)",
+      "state": "navigation-1",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.378
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(2)",
+      "state": "navigation-2",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        11.172
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(3)",
+      "state": "navigation-3",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        10.898
+      ],
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 1440,
+      "selector": ".primary-navigation a:nth-child(4)",
+      "state": "navigation-4",
+      "color": "rgb(41, 55, 46)",
+      "width": 2,
+      "offset": 4,
+      "adjacentRatios": [
+        11.471,
+        10.063
+      ],
+      "passed": true
+    }
+  ],
+  "inconclusiveTextInspection": [
+    {
+      "route": "/",
+      "viewport": 390,
+      "open": false,
+      "selector": ".home-introduction",
+      "text": "Explore the institutions, benefits, and reforms shaping Nigeria\u2019s pension system.",
+      "color": "rgb(48, 59, 52)",
+      "size": 23.6,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined because it partially overlaps other elements",
+      "minimumBackgroundRatio": 10.417,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "open": true,
+      "selector": ".page-locator",
+      "text": "Home",
+      "color": "rgb(60, 71, 64)",
+      "size": 14.5,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 8.892,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "open": true,
+      "selector": ".close-icon",
+      "text": "\u00d7",
+      "color": "rgb(49, 64, 53)",
+      "size": 38,
+      "threshold": 3,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 10.063,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href=\"./\"]",
+      "text": "Home",
+      "color": "rgb(38, 56, 43)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 11.452,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href$=\"book.html\"]",
+      "text": "The book",
+      "color": "rgb(78, 90, 80)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 6.641,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href$=\"author.html\"]",
+      "text": "The author",
+      "color": "rgb(78, 90, 80)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 6.641,
+      "passed": true
+    },
+    {
+      "route": "/",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href$=\"launch.html\"]",
+      "text": "The launch",
+      "color": "rgb(78, 90, 80)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 6.641,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 390,
+      "open": true,
+      "selector": ".page-locator",
+      "text": "About the Book",
+      "color": "rgb(60, 71, 64)",
+      "size": 14.5,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 8.892,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 390,
+      "open": true,
+      "selector": ".close-icon",
+      "text": "\u00d7",
+      "color": "rgb(49, 64, 53)",
+      "size": 38,
+      "threshold": 3,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 10.063,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href=\"./\"]",
+      "text": "Home",
+      "color": "rgb(78, 90, 80)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 6.641,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href$=\"book.html\"]",
+      "text": "The book",
+      "color": "rgb(38, 56, 43)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 11.452,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href$=\"author.html\"]",
+      "text": "The author",
+      "color": "rgb(78, 90, 80)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 6.641,
+      "passed": true
+    },
+    {
+      "route": "/book.html",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href$=\"launch.html\"]",
+      "text": "The launch",
+      "color": "rgb(78, 90, 80)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 6.641,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 390,
+      "open": true,
+      "selector": ".page-locator",
+      "text": "About the Author",
+      "color": "rgb(60, 71, 64)",
+      "size": 14.5,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 8.892,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 390,
+      "open": true,
+      "selector": ".close-icon",
+      "text": "\u00d7",
+      "color": "rgb(49, 64, 53)",
+      "size": 38,
+      "threshold": 3,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 10.063,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href=\"./\"]",
+      "text": "Home",
+      "color": "rgb(78, 90, 80)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 6.641,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href$=\"book.html\"]",
+      "text": "The book",
+      "color": "rgb(78, 90, 80)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 6.641,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href$=\"author.html\"]",
+      "text": "The author",
+      "color": "rgb(38, 56, 43)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 11.452,
+      "passed": true
+    },
+    {
+      "route": "/author.html",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href$=\"launch.html\"]",
+      "text": "The launch",
+      "color": "rgb(78, 90, 80)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 6.641,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 390,
+      "open": true,
+      "selector": ".page-locator",
+      "text": "About the Launch",
+      "color": "rgb(60, 71, 64)",
+      "size": 14.5,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 8.892,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 390,
+      "open": true,
+      "selector": ".close-icon",
+      "text": "\u00d7",
+      "color": "rgb(49, 64, 53)",
+      "size": 38,
+      "threshold": 3,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 10.063,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href=\"./\"]",
+      "text": "Home",
+      "color": "rgb(78, 90, 80)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 6.641,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href$=\"book.html\"]",
+      "text": "The book",
+      "color": "rgb(78, 90, 80)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 6.641,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href$=\"author.html\"]",
+      "text": "The author",
+      "color": "rgb(78, 90, 80)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 6.641,
+      "passed": true
+    },
+    {
+      "route": "/launch.html",
+      "viewport": 390,
+      "open": true,
+      "selector": "a[href$=\"launch.html\"]",
+      "text": "The launch",
+      "color": "rgb(38, 56, 43)",
+      "size": 19,
+      "threshold": 4.5,
+      "reason": "Fix any of the following:\n  Element's background color could not be determined due to a pseudo element",
+      "minimumBackgroundRatio": 11.452,
+      "passed": true
+    }
+  ]
+}

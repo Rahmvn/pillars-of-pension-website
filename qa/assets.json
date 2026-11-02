@@ -1,0 +1,42 @@
+[
+  {
+    "original": "assets/images/interior.png",
+    "figmaNodes": [
+      "32:3",
+      "62:3",
+      "113:3"
+    ],
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "sha256": "1f47090172acfba9c5b39fda2216fba79427cab13427ad20e8f3ecb60f654060",
+    "delivery": "assets/images/interior.webp"
+  },
+  {
+    "original": "assets/images/book-cover.png",
+    "figmaNodes": [
+      "32:14",
+      "113:15"
+    ],
+    "dimensions": [
+      480,
+      691
+    ],
+    "sha256": "842fe5bb4ee03aa69bc3d54f6cd78190b2c1e687ce2266e0c829f24f556f5010",
+    "delivery": "assets/images/book-cover.png"
+  },
+  {
+    "original": "assets/images/author-portrait.png",
+    "figmaNodes": [
+      "74:19",
+      "128:14"
+    ],
+    "dimensions": [
+      1153,
+      1364
+    ],
+    "sha256": "30a49609e31853e8bcd999a3aad17f7e3249073427368bf957301f3fd4ef8090",
+    "delivery": "assets/images/author-portrait.webp"
+  }
+]

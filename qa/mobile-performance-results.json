@@ -1,0 +1,373 @@
+{
+  "browser": "147.0.7727.15",
+  "environment": "Local dist/ preview; no Vercel/CDN measurement",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "network": {
+    "downloadMbps": 1.6,
+    "uploadMbps": 0.75,
+    "latencyMs": 150
+  },
+  "cpuSlowdown": 4,
+  "pages": [
+    {
+      "route": "/",
+      "cold": {
+        "lcp": 6756,
+        "cls": 0,
+        "longTaskMs": 86,
+        "loadMs": 6740.5999999996275,
+        "resources": [
+          {
+            "file": "/assets/fonts/geist-latin.woff2",
+            "transferBytes": 29700,
+            "encodedBytes": 29400,
+            "durationMs": 738,
+            "deliveryType": ""
+          },
+          {
+            "file": "/styles.css",
+            "transferBytes": 23353,
+            "encodedBytes": 23053,
+            "durationMs": 651,
+            "deliveryType": ""
+          },
+          {
+            "file": "/navigation.js",
+            "transferBytes": 3307,
+            "encodedBytes": 3007,
+            "durationMs": 275,
+            "deliveryType": ""
+          },
+          {
+            "file": "/assets/images/interior.webp",
+            "transferBytes": 1122596,
+            "encodedBytes": 1122296,
+            "durationMs": 6495,
+            "deliveryType": ""
+          },
+          {
+            "file": "/assets/images/book-contact-shadow.svg",
+            "transferBytes": 1022,
+            "encodedBytes": 722,
+            "durationMs": 173,
+            "deliveryType": ""
+          },
+          {
+            "file": "/assets/images/book-cover.png",
+            "transferBytes": 77158,
+            "encodedBytes": 76858,
+            "durationMs": 1222,
+            "deliveryType": ""
+          },
+          {
+            "file": "/favicon.ico",
+            "transferBytes": 309,
+            "encodedBytes": 9,
+            "durationMs": 187,
+            "deliveryType": ""
+          }
+        ],
+        "transferBytes": 1257445
+      },
+      "warm": {
+        "lcp": 536,
+        "cls": 0.47393364928909953,
+        "longTaskMs": 0,
+        "loadMs": 510.40000000037253,
+        "resources": [
+          {
+            "file": "/assets/fonts/geist-latin.woff2",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 179,
+            "deliveryType": ""
+          },
+          {
+            "file": "/styles.css",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 189,
+            "deliveryType": ""
+          },
+          {
+            "file": "/navigation.js",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 215,
+            "deliveryType": ""
+          },
+          {
+            "file": "/assets/images/interior.webp",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 197,
+            "deliveryType": ""
+          },
+          {
+            "file": "/assets/images/book-contact-shadow.svg",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 215,
+            "deliveryType": ""
+          },
+          {
+            "file": "/assets/images/book-cover.png",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 214,
+            "deliveryType": ""
+          }
+        ],
+        "transferBytes": 1800
+      }
+    },
+    {
+      "route": "/book.html",
+      "cold": {
+        "lcp": 988,
+        "cls": 0,
+        "longTaskMs": 51,
+        "loadMs": 6361.300000000745,
+        "resources": [
+          {
+            "file": "/assets/fonts/geist-latin.woff2",
+            "transferBytes": 29700,
+            "encodedBytes": 29400,
+            "durationMs": 607,
+            "deliveryType": ""
+          },
+          {
+            "file": "/styles.css",
+            "transferBytes": 23353,
+            "encodedBytes": 23053,
+            "durationMs": 537,
+            "deliveryType": ""
+          },
+          {
+            "file": "/navigation.js",
+            "transferBytes": 3307,
+            "encodedBytes": 3007,
+            "durationMs": 253,
+            "deliveryType": ""
+          },
+          {
+            "file": "/assets/images/interior.webp",
+            "transferBytes": 1122596,
+            "encodedBytes": 1122296,
+            "durationMs": 6095,
+            "deliveryType": ""
+          }
+        ],
+        "transferBytes": 1178956
+      },
+      "warm": {
+        "lcp": 532,
+        "cls": 0.47393364928909953,
+        "longTaskMs": 0,
+        "loadMs": 499.80000000074506,
+        "resources": [
+          {
+            "file": "/assets/fonts/geist-latin.woff2",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 177,
+            "deliveryType": ""
+          },
+          {
+            "file": "/styles.css",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 170,
+            "deliveryType": ""
+          },
+          {
+            "file": "/navigation.js",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 198,
+            "deliveryType": ""
+          },
+          {
+            "file": "/assets/images/interior.webp",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 174,
+            "deliveryType": ""
+          }
+        ],
+        "transferBytes": 1200
+      }
+    },
+    {
+      "route": "/author.html",
+      "cold": {
+        "lcp": 12212,
+        "cls": 0,
+        "longTaskMs": 137,
+        "loadMs": 12192.399999999441,
+        "resources": [
+          {
+            "file": "/assets/fonts/geist-latin.woff2",
+            "transferBytes": 29700,
+            "encodedBytes": 29400,
+            "durationMs": 747,
+            "deliveryType": ""
+          },
+          {
+            "file": "/styles.css",
+            "transferBytes": 23353,
+            "encodedBytes": 23053,
+            "durationMs": 650,
+            "deliveryType": ""
+          },
+          {
+            "file": "/navigation.js",
+            "transferBytes": 3307,
+            "encodedBytes": 3007,
+            "durationMs": 276,
+            "deliveryType": ""
+          },
+          {
+            "file": "/assets/images/interior.webp",
+            "transferBytes": 1122596,
+            "encodedBytes": 1122296,
+            "durationMs": 11717,
+            "deliveryType": ""
+          },
+          {
+            "file": "/assets/images/author-portrait.webp",
+            "transferBytes": 1167666,
+            "encodedBytes": 1167366,
+            "durationMs": 11947,
+            "deliveryType": ""
+          }
+        ],
+        "transferBytes": 2346622
+      },
+      "warm": {
+        "lcp": 576,
+        "cls": 0.47393364928909953,
+        "longTaskMs": 0,
+        "loadMs": 498.29999999981374,
+        "resources": [
+          {
+            "file": "/assets/fonts/geist-latin.woff2",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 172,
+            "deliveryType": ""
+          },
+          {
+            "file": "/styles.css",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 170,
+            "deliveryType": ""
+          },
+          {
+            "file": "/navigation.js",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 195,
+            "deliveryType": ""
+          },
+          {
+            "file": "/assets/images/interior.webp",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 178,
+            "deliveryType": ""
+          },
+          {
+            "file": "/assets/images/author-portrait.webp",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 182,
+            "deliveryType": ""
+          }
+        ],
+        "transferBytes": 1500
+      }
+    },
+    {
+      "route": "/launch.html",
+      "cold": {
+        "lcp": 1000,
+        "cls": 0,
+        "longTaskMs": 114,
+        "loadMs": 6391.899999999441,
+        "resources": [
+          {
+            "file": "/assets/fonts/geist-latin.woff2",
+            "transferBytes": 29700,
+            "encodedBytes": 29400,
+            "durationMs": 593,
+            "deliveryType": ""
+          },
+          {
+            "file": "/styles.css",
+            "transferBytes": 23353,
+            "encodedBytes": 23053,
+            "durationMs": 536,
+            "deliveryType": ""
+          },
+          {
+            "file": "/navigation.js",
+            "transferBytes": 3307,
+            "encodedBytes": 3007,
+            "durationMs": 250,
+            "deliveryType": ""
+          },
+          {
+            "file": "/assets/images/interior.webp",
+            "transferBytes": 1122596,
+            "encodedBytes": 1122296,
+            "durationMs": 6129,
+            "deliveryType": ""
+          }
+        ],
+        "transferBytes": 1178956
+      },
+      "warm": {
+        "lcp": 520,
+        "cls": 0.47393364928909953,
+        "longTaskMs": 0,
+        "loadMs": 506.59999999962747,
+        "resources": [
+          {
+            "file": "/assets/fonts/geist-latin.woff2",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 186,
+            "deliveryType": ""
+          },
+          {
+            "file": "/styles.css",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 176,
+            "deliveryType": ""
+          },
+          {
+            "file": "/navigation.js",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 189,
+            "deliveryType": ""
+          },
+          {
+            "file": "/assets/images/interior.webp",
+            "transferBytes": 300,
+            "encodedBytes": 0,
+            "durationMs": 187,
+            "deliveryType": ""
+          }
+        ],
+        "transferBytes": 1200
+      }
+    }
+  ]
+}

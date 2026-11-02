@@ -1,0 +1,215 @@
+{
+  "outputFiles": [
+    {
+      "file": "index.html",
+      "bytes": 3890,
+      "sha256": "0b5d74d4dc8498e3d35fa9cc0f04670d0e8a47d64517a5e174acabde3b7cb205"
+    },
+    {
+      "file": "book.html",
+      "bytes": 3013,
+      "sha256": "5b4e8f47ab884f168786b0a7fc139735a200c615d24584609ff4282d81107fb7"
+    },
+    {
+      "file": "author.html",
+      "bytes": 2901,
+      "sha256": "6a17341617a71b90da95099dabc3346103adfc4a42374806f54cb51b7743aa4e"
+    },
+    {
+      "file": "launch.html",
+      "bytes": 2608,
+      "sha256": "67f08acaf2b980cdb432261a84c31acf52087bbe99a26ce0df802c49bb4608fe"
+    },
+    {
+      "file": "styles.css",
+      "bytes": 23053,
+      "sha256": "8c8e89121f4ff6fe0617cb45ba3e243894cf95d16bd4f0e347ade6d04b90d4d6"
+    },
+    {
+      "file": "navigation.js",
+      "bytes": 3007,
+      "sha256": "cff99cee5fdad4c09dfade35b6c696fce0842f0ab47a2fedaaddac99af9f7f6c"
+    },
+    {
+      "file": "assets/images/interior.webp",
+      "bytes": 1122296,
+      "sha256": "36585513a5ed906fd75d0d021cfca9fe7908ea6e866f95d10572ddbf585ea401"
+    },
+    {
+      "file": "assets/images/author-portrait.webp",
+      "bytes": 1167366,
+      "sha256": "2947986a0378e566291d16298af3f1ea46b44b9481c20fa4b89356fc42fa072b"
+    },
+    {
+      "file": "assets/images/book-cover.png",
+      "bytes": 76858,
+      "sha256": "842fe5bb4ee03aa69bc3d54f6cd78190b2c1e687ce2266e0c829f24f556f5010"
+    },
+    {
+      "file": "assets/images/book-contact-shadow.svg",
+      "bytes": 722,
+      "sha256": "251c113f868cfd2253046abf15365ba480fcc687c2a93659620afe1df0fb836a"
+    },
+    {
+      "file": "assets/fonts/geist-latin.woff2",
+      "bytes": 29400,
+      "sha256": "19f9c92546aa300c312235e3125af1b81394d8db9a4bc4a425cd5b641d2d54e1"
+    },
+    {
+      "file": "assets/fonts/OFL.txt",
+      "bytes": 4368,
+      "sha256": "930853ee1daa68554d9e35c8a9175affb74f699fad9a5da6ee5ebe76379d9137"
+    }
+  ],
+  "reviewedSourcesUnchanged": [
+    "author.html",
+    "book.html",
+    "index.html",
+    "launch.html",
+    "navigation.js",
+    "assets/fonts/geist-latin.woff2",
+    "assets/fonts/geist-medium.ttf",
+    "assets/fonts/geist-regular.ttf",
+    "assets/fonts/OFL.txt",
+    "assets/images/author-portrait.png",
+    "assets/images/author-portrait.webp",
+    "assets/images/book-contact-shadow.svg",
+    "assets/images/book-cover.png",
+    "assets/images/interior.png",
+    "assets/images/interior.webp"
+  ],
+  "httpChecks": [
+    {
+      "route": "/",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/index.html",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/book.html",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/author.html",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/launch.html",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "route": "/styles.css",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "text/css; charset=utf-8"
+    },
+    {
+      "route": "/navigation.js",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "text/javascript; charset=utf-8"
+    },
+    {
+      "route": "/assets/images/interior.webp",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "image/webp"
+    },
+    {
+      "route": "/assets/images/author-portrait.webp",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "image/webp"
+    },
+    {
+      "route": "/assets/images/book-cover.png",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "image/png"
+    },
+    {
+      "route": "/assets/images/book-contact-shadow.svg",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "image/svg+xml"
+    },
+    {
+      "route": "/assets/fonts/geist-latin.woff2",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "font/woff2"
+    },
+    {
+      "route": "/assets/fonts/OFL.txt",
+      "status": 200,
+      "conditionalStatus": 304,
+      "contentType": "text/plain; charset=utf-8"
+    },
+    {
+      "route": "/qa/verify.cjs",
+      "status": 404
+    },
+    {
+      "route": "/.git/config",
+      "status": 404
+    },
+    {
+      "route": "/.env",
+      "status": 404
+    },
+    {
+      "route": "/scripts/build-static.cjs",
+      "status": 404
+    },
+    {
+      "route": "/vercel.json",
+      "status": 404
+    },
+    {
+      "route": "/README.md",
+      "status": 404
+    },
+    {
+      "route": "/assets/images/interior.png",
+      "status": 404
+    },
+    {
+      "route": "/assets/images/author-portrait.png",
+      "status": 404
+    },
+    {
+      "route": "/missing-page",
+      "status": 404
+    }
+  ],
+  "schema": "Every configured property validated against the official Vercel schema",
+  "uploadAllowlist": [
+    "index.html",
+    "book.html",
+    "author.html",
+    "launch.html",
+    "styles.css",
+    "navigation.js",
+    "assets/images/interior.webp",
+    "assets/images/author-portrait.webp",
+    "assets/images/book-cover.png",
+    "assets/images/book-contact-shadow.svg",
+    "assets/fonts/geist-latin.woff2",
+    "assets/fonts/OFL.txt",
+    "vercel.json",
+    "scripts/build-static.cjs",
+    "scripts/static-files.json"
+  ]
+}
