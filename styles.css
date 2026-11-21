@@ -216,6 +216,14 @@ main:focus { outline: none; }
 .reading-content { width: 686px; max-width: 100%; margin-top: 47px; color: var(--muted); font-size: 17px; line-height: 28px; letter-spacing: -.07px; }
 .reading-content p + p { margin-top: 41px; }
 .reading-content p:last-child { margin-top: 42px; }
+.book-contacts { max-width: 900px; margin-top: 76px; padding-top: 32px; border-top: 1px solid rgb(184 184 173 / .65); color: var(--muted); }
+.book-contacts h2 { color: var(--ink); font-size: 24px; line-height: 1.35; font-weight: 500; }
+.contact-intro { margin-top: 12px; line-height: 1.7; }
+.contact-author { margin-top: 20px; color: var(--ink); font-weight: 500; }
+.contact-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px 42px; margin-top: 24px; }
+.contact-location h3 { color: var(--green); font-size: 17px; font-weight: 500; }
+.contact-location p { margin-top: 10px; font-size: 15px; line-height: 1.7; overflow-wrap: anywhere; }
+.contact-location a { text-decoration: underline; text-decoration-color: rgb(70 89 76 / .35); text-underline-offset: 3px; }
 .reading-lead { color: #303b33; font-size: 18.5px; line-height: 30px; letter-spacing: -.17px; }
 .page-author .editorial-atmosphere .scene { display: none; }
 .page-author .editorial-atmosphere .scene-wash { background: linear-gradient(90deg, rgb(247 245 240 / .76), rgb(242 239 231 / .44) 52%, rgb(234 228 215 / .38)); }
@@ -249,6 +257,8 @@ main:focus { outline: none; }
   .author-name { letter-spacing: 0; }
   .reading-content { width: 100%; margin-top: 56px; letter-spacing: 0; }
   .reading-content p + p, .reading-content p:last-child { margin-top: 36px; }
+  .book-contacts { margin-top: 58px; }
+  .contact-grid { grid-template-columns: 1fr; gap: 26px; }
   .reading-lead { color: #303b34; letter-spacing: 0; }
   .page-author .editorial-atmosphere .scene { display: block; opacity: .5; }
   .page-author .editorial-atmosphere .scene-wash { background: linear-gradient(180deg, rgb(247 245 240 / .93), rgb(247 245 240 / .93) 20%, rgb(247 245 240 / .96) 45%, var(--ivory) 65%, var(--ivory)); }
